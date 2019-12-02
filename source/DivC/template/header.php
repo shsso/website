@@ -5,7 +5,7 @@
 <div id="container">
 <header id="superheader">
 <figure id="texty">
-<a href="http://www.solonscienceolympiad.org/DivC/index.php">
+<a href="https://www.solonscienceolympiad.org/DivC/index.php">
 <img src="/DivC/images/headerV3.png" alt="Solon  Science Olympiad" width="673" height="101" border="0" /></a>
 </figure>
 

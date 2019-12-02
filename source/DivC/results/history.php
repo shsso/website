@@ -282,7 +282,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header
 </table></div>
 
 <p>*(Division C) National Record for lowest points ever scored at the National Tournament. <br />
-†State Record for lowest points ever scored in the state of <a href="http://scioly.org/wiki/index.php/Ohio" title="Ohio">Ohio</a>. <br />
+†State Record for lowest points ever scored in the state of <a href="https://scioly.org/wiki/index.php/Ohio" title="Ohio">Ohio</a>. <br />
 ‡The Towers event was considered a Trial Event at the State Tournament. <br />
 §WIDI was considered a Trial Event at the State Tournament. <br />
 -- Did not participate <br />

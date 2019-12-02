@@ -9,7 +9,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header
 <hr>
 
 <div class="archive">
-<!--php from http://2buntu.com/articles/1301/php-script-to-dynamically-generate-links-to-the-files-present-in-current-directory/-->
+<!--php from https://2buntu.com/articles/1301/php-script-to-dynamically-generate-links-to-the-files-present-in-current-directory/-->
 <?php
 $dir_open = opendir('.');
 $a = array();

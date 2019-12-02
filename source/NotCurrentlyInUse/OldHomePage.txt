@@ -124,7 +124,7 @@ function preloadImages() {
 <!-- End ImageReady Slices -->
 </body>
 
-<center><a href="http://www.solonschools.org/" border="0" style="text-decoration : none"><font face="Candara, Cambria, Calibri"><font color="grey"><font size=2>&copy; 2009-2017 Solon City Schools</a></font></font>
+<center><a href="https://www.solonschools.org/" border="0" style="text-decoration : none"><font face="Candara, Cambria, Calibri"><font color="grey"><font size=2>&copy; 2009-2017 Solon City Schools</a></font></font>
 <!-- Can someone explain why this is hiding here -->
 <p>steve zhou???</p>
 </html>

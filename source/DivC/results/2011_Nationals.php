@@ -47,7 +47,7 @@ Fossils: Stephanie S & Yuxi<br>
 Chem Lab: Danny & Stephen<br>
 Forensics: Lillian & Lisa<br>
 <br>
-For the entire table of scores, please visit<a href="http://www.soinc.org/sites/default/files/NSOTDivC2011Results.pdf"> this link here.</a>
+For the entire table of scores, please visit<a href="https://www.soinc.org/sites/default/files/NSOTDivC2011Results.pdf"> this link here.</a>
 
 <br>
 <br></font>

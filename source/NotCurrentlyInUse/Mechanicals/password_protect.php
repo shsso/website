@@ -3,7 +3,7 @@
 ###############################################################
 # Page Password Protect 2.13
 ###############################################################
-# Visit http://www.zubrag.com/scripts/ for updates
+# Visit https://www.zubrag.com/scripts/ for updates
 ############################################################### 
 #
 # Usage:
@@ -14,7 +14,7 @@
 # Include protection string which it gave you into every file that needs to be protected
 #
 # Add following HTML code to your page where you want to have logout link
-# <a href="http://www.example.com/path/to/protected/page.php?logout=1">Logout</a>
+# <a href="https://www.example.com/path/to/protected/page.php?logout=1">Logout</a>
 #
 ###############################################################
 
@@ -56,7 +56,7 @@ $LOGIN_INFORMATION = array(
 define('USE_USERNAME', true);
 
 // User will be redirected to this page after logout
-define('LOGOUT_URL', 'http://www.solonscienceolympiad.org');
+define('LOGOUT_URL', 'https://www.solonscienceolympiad.org');
 
 // time out after NN minutes of inactivity. Set to 0 to not timeout
 define('TIMEOUT_MINUTES', 0);

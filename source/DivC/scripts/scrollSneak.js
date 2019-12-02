@@ -1,10 +1,10 @@
 /*!
  * Scroll Sneak
- * http://mrcoles.com/scroll-sneak/
+ * https://mrcoles.com/scroll-sneak/
  *
  * Copyright 2010, Peter Coles
  * Licensed under the MIT licenses.
- * http://mrcoles.com/media/mit-license.txt
+ * https://mrcoles.com/media/mit-license.txt
  *
  * Date: Mon Mar 8 10:00:00 2010 -0500
  */

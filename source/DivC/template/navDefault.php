@@ -38,7 +38,7 @@
 <li id="resources" class="subnav"><ul>
 	<li><a class="subnav" href="https://goo.gl/xARH0C">Test Database</a></li>
 	<li><a class="subnav" href="https://sites.google.com/site/solonhsscienceolympiad/">Intranet</a></li>
-	<li><a class="subnav" href="http://soinc.org">SOInc</a></li>
+	<li><a class="subnav" href="https://soinc.org">SOInc</a></li>
 </ul></li>
 
 <li><a href="/DivC/alumni.php"><span>Alumni
@@ -46,7 +46,7 @@
 
 <li id="fixed-sidebar">
 	<h3 class="center">Sponsored in part by</h3>
-	<a id="academicBoosters" href="http://www.solonacademicboosters.com/"></a>
+	<a id="academicBoosters" href="https://www.solonacademicboosters.com/"></a>
 	<!--<br>
 	<br>
 	<a id="back-to-top" href="#container">-back to top-</a>*/-->

@@ -61,7 +61,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header
 	which is definitely a positive as we go onto States.</p>
 	
 <p>Speaking of States, lets go onwards to States! Now in less than 33 days. Countdown on the 
-	<a href="http://ohso.osu.edu/state-tournament">official site</a>.</p>
+	<a href="https://ohso.osu.edu/state-tournament">official site</a>.</p>
 
 <h2> March 3rd, 2016 - Last Invitational of the Season</h2>
 
@@ -94,7 +94,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header
 <p>On a more solemn note, our Sophomore Representative Pranav preceded to lose an intense match of Rock, Paper, Scissors
 	to a representative of the Mentor team immediately after awards in a humiliating 0-2 (best of three). Henceforth, we will be blaming him for all our problems.</p>
 	
-<p>Event placings have been posted on the <a href="http://scioly.org/phpBB3/viewtopic.php?f=214&t=7807&start=31">Scioly Forums</a>. Detailed results for our team will be more delayed than normal due to a restructuring of the program that creates the html for them. This, of course, is Pranav's fault. ^_^</p>
+<p>Event placings have been posted on the <a href="https://scioly.org/phpBB3/viewtopic.php?f=214&t=7807&start=31">Scioly Forums</a>. Detailed results for our team will be more delayed than normal due to a restructuring of the program that creates the html for them. This, of course, is Pranav's fault. ^_^</p>
 
 <h2> February 4th, 2016 - Be Prepared</h2>
 
@@ -215,7 +215,7 @@ On Saturday: <br>
 
 <h2> December 8th, 2015 -</h2>
 
-	<p>Tests from the Sylvania-Northview Invitational have been added to the Intranet! Detailed results are coming soon. Also, the <a href="http://www.northviewscienceolympiad.org/">Sylvania Northview Science Olympiad site</a> is quite nice.</p>
+	<p>Tests from the Sylvania-Northview Invitational have been added to the Intranet! Detailed results are coming soon. Also, the <a href="https://www.northviewscienceolympiad.org/">Sylvania Northview Science Olympiad site</a> is quite nice.</p>
 	<p>Thank you to Northview for hosting an excellent invitational to start off the new season!</p>
 	<p>(Sorry for lack of updates recently, I have been dead. I really should get one of the PR persons to write these.)</p>
 
@@ -322,7 +322,7 @@ On Saturday: <br>
 <h2> October 1st, 2015 -</h2>
 
 	Meeting Update: <br>
-	- Permission Slips and Emergency Medical Forms <a href="http://eforms.solonschools.org/eforms">(here)</a><br>
+	- Permission Slips and Emergency Medical Forms <a href="https://eforms.solonschools.org/eforms">(here)</a><br>
 	- Dues $40 plus + duct tape (AND 2 boxes of candy)<br>
 	- Geomapping &amp; Survery -> TODAY!!!!<br>
 

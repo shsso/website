@@ -27,7 +27,7 @@ and regain access to the main site. Happy exploring and dead links ahoy!</p>
 
 <p>P.S. The homepage of older site version is "index.html", while this page is "index.php"</p>
 
-<!--php from http://2buntu.com/articles/1301/php-script-to-dynamically-generate-links-to-the-files-present-in-current-directory/-->
+<!--php from https://2buntu.com/articles/1301/php-script-to-dynamically-generate-links-to-the-files-present-in-current-directory/-->
 <?php
 $dir_open = opendir('.');
 

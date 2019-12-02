@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <site>
-<localinfo sitename="SolonScienceOlympiad" ftporrdsserver="FALSE" localroot="C:\Documents and Settings\Default\My Documents\sosite\" assetfolder="C:\Documents and Settings\Default\My Documents\sosite\SpryAssets\" imagefolder="C:\Documents and Settings\Default\My Documents\sosite\assets\" spacerfilepath="" refreshlocal="TRUE" autouploadfiles="FALSE" maintainsyncinfo="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+<localinfo sitename="SolonScienceOlympiad" ftporrdsserver="FALSE" localroot="C:\Documents and Settings\Default\My Documents\sosite\" assetfolder="C:\Documents and Settings\Default\My Documents\sosite\SpryAssets\" imagefolder="C:\Documents and Settings\Default\My Documents\sosite\assets\" spacerfilepath="" refreshlocal="TRUE" autouploadfiles="FALSE" maintainsyncinfo="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="https://" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
 <remoteinfo accesstype="none"/>
 <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
 <sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
@@ -12,7 +12,7 @@
     <column name="Modified" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102" />
     <column name="Checked Out By" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1" />
 </fileviewcolumns>
-<appserverinfo servermodel="" urlprefix="http://localhost/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="none" testsvrbinaccesstype="none"/>
+<appserverinfo servermodel="" urlprefix="https://localhost/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="none" testsvrbinaccesstype="none"/>
 <cloaking enabled="TRUE" patterns="FALSE">
     <cloakedpattern pattern=".png"/>
     <cloakedpattern pattern=".fla"/>

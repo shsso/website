@@ -52,7 +52,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/navDef
 <table class="news">
 <tr><th class="newsDate">- December 8th, 2015 -</th></tr>
 <tr><td class="newsContent"><p>
-	<p>Tests from the Sylvania-Northview Invitational have been added to the Intranet! Detailed results are coming soon. Also, the <a href="http://www.northviewscienceolympiad.org/">Sylvania Northview Science Olympiad site</a> is quite nice.</p>
+	<p>Tests from the Sylvania-Northview Invitational have been added to the Intranet! Detailed results are coming soon. Also, the <a href="https://www.northviewscienceolympiad.org/">Sylvania Northview Science Olympiad site</a> is quite nice.</p>
 	<p>Thank you to Northview for hosting an excellent invitational to start off the new season!</p>
 	<p>(Sorry for lack of updates recently, I have been dead. I really should get one of the PR persons to write these.)</p>
 </p></td></tr></table>
@@ -159,7 +159,7 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/navDef
 <tr><th class="newsDate">- October 1st, 2015 -</th></tr>
 <tr><td class="newsContent"><p>
 	Meeting Update: <br>
-	- Permission Slips and Emergency Medical Forms <a href="http://eforms.solonschools.org/eforms">(here)</a><br>
+	- Permission Slips and Emergency Medical Forms <a href="https://eforms.solonschools.org/eforms">(here)</a><br>
 	- Dues $40 plus + duct tape (AND 2 boxes of candy)<br>
 	- Geomapping &amp; Survery -> TODAY!!!!<br>
 </p></td></tr></table>

@@ -100,7 +100,7 @@ class="nav-image-link download"
 onclick="this.blur();"><span>Download
 </span></a></li> 
 
-<li><a href="http://soinc.org" 
+<li><a href="https://soinc.org" 
 target="_blank"
 class="nav-image-link soinc" 
 onclick="this.blur();"><span>Soinc
@@ -118,7 +118,7 @@ onclick="this.blur();"><span>Soinc
 		<div><img src="images/backgroundheaderpassion11.png" alt="" width="900" height="200" /></div> 
 		<div><img src="images/backgroundheadercherish11.png" alt="" width="900" height="200" /></div>
 </div>
-<a href="http://solonscienceolympiad.org"><img class="texty" src="simpletext.png" alt="" width="673" height="101" border="0" /></a></div>
+<a href="https://solonscienceolympiad.org"><img class="texty" src="simpletext.png" alt="" width="673" height="101" border="0" /></a></div>
 </div>
 <!------------------------WRITE YOUR UPDATES HERE------------------->
 <div id="content"><br /><br />

@@ -63,7 +63,7 @@ v2.9.0 (2016-07-10)
 -------------------
 
 - Setters for (almost) all options (#564).
-  See [docs](http://fullcalendar.io/docs/utilities/dynamic_options/) for more info.
+  See [docs](https://fullcalendar.io/docs/utilities/dynamic_options/) for more info.
 - Travis CI improvements (#3266)
 
 
@@ -503,12 +503,12 @@ which cover about half of FullCalendar's functionality. Special thanks to @incre
 In addition, the main development repo has been repurposed to also include the built distributable
 JS/CSS for the project and will serve as the new [Bower] endpoint.
 
-[MomentJS]: http://momentjs.com/
-[Upgrading-to-v2]: http://arshaw.com/fullcalendar/wiki/Upgrading-to-v2/
+[MomentJS]: https://momentjs.com/
+[Upgrading-to-v2]: https://arshaw.com/fullcalendar/wiki/Upgrading-to-v2/
 [Date-Milestone]: https://code.google.com/p/fullcalendar/issues/list?can=1&q=milestone%3Ddate
-[Karma]: http://karma-runner.github.io/
-[Jasmine]: http://jasmine.github.io/
-[Bower]: http://bower.io/
+[Karma]: https://karma-runner.github.io/
+[Jasmine]: https://jasmine.github.io/
+[Bower]: https://bower.io/
 
 
 v1.6.4 (2013-09-01)

@@ -4,7 +4,7 @@
 <body>
 <div id="container">
 <header id="superheader">
-<figure id="texty"><a href="http://solonscienceolympiad.org"><img src="/DivC/images/simpletext.svg" alt="Solon Science Olympiad" width="673" height="101" border="0" /></a></figure>
+<figure id="texty"><a href="https://solonscienceolympiad.org"><img src="/DivC/images/simpletext.svg" alt="Solon Science Olympiad" width="673" height="101" border="0" /></a></figure>
 
 <!------------ THESE ARE THE CAROUSEL SETTINGS -------------->
 
