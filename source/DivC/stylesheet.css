@@ -163,7 +163,7 @@ footer {
 	text-decoration: none;
 	width: 100%;
 	/*max-width: 1300px;*/
-	//border-top: 5px solid #0A335E;
+	/* border-top: 5px solid #0A335E; */
 }
 footer a {
 	color: white;
@@ -177,9 +177,9 @@ footer a {
 	-webkit-column-count: 3;
 	-moz-column-count: 3;
 	column-count: 3;
-	// -webkit-column-rule: 2px solid white;
-	//-moz-column-rule: 2px solid white;
-	//column-rule: 2px solid white;
+	/* -webkit-column-rule: 2px solid white; */
+	/* -moz-column-rule: 2px solid white; */
+	/* column-rule: 2px solid white; */
 	height: 45px;
 }
 
@@ -259,10 +259,10 @@ nav#horizontal a {
 }
 nav#horizontal a.tab:hover {
 	background-color: #0A335E;
-	// -moz-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//-webkit-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//TODO make a prettier color
+	/*  -moz-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* -webkit-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* TODO make a prettier color */
 }
 nav#horizontal a#more {
 	display: none;
@@ -271,11 +271,10 @@ nav#horizontal a#more {
 }
 nav#horizontal a#more:hover {
 	background-color: #0A335E;
-	// -moz-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//-webkit-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4);
-	//TODO make a prettier color
-	//
+	/*  -moz-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* -webkit-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* box-shadow: inset 1px 1px 1px rgba(255, 255, 255, .4), inset -1px -1px 1px rgba(0, 0, 0, .4); */
+	/* TODO make a prettier color */
 }
 
 /*<----------------------Navigation Bar----------------------->*/
@@ -355,7 +354,7 @@ ul#list-nav li a:visited {
 }
 ul#list-nav li a:hover {
 	background-color: #0A335E;
-	// box-shadow: 0px 6px 5px 1px rgba(0, 0, 0, 0.5);
+	/* box-shadow: 0px 6px 5px 1px rgba(0, 0, 0, 0.5); */
 }
 
 /*<-----------------------About Us / Results Sub-Menus---------------------->
@@ -380,12 +379,12 @@ ul#list-nav li.subnav ul	/* For the drop-down menus*/
 {
 	text-decoration: none;
 	width: 222px;
-	// box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4);
+	/*  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4); */
 	position: relative;
 	padding-left: 0px;
 	padding-top: 10px;
 	list-style-type: none;
-	//border: 2px solid black;
+	/* border: 2px solid black; */
 	display: block;
 	text-align: center;
 	background-color: #6E91A1;
@@ -401,8 +400,8 @@ ul#list-nav li.subnav a.subnav {
 	margin-bottom: 12px;
 	font-size: 20px;
 	/*font-family: Georgia, "Times New Roman", Times, serif;*/
-	//box-shadow: none;
-	//background-image: none;
+	/* box-shadow: none; */
+	/* background-image: none; */
 	line-height: 2px;
 }
 ul#list-nav li a.subnav:link {
@@ -462,10 +461,10 @@ table.bio {
 	margin-right: 2%;
 	margin-left: 2%;
 	margin-bottom: 30px;
-	//border: 2px solid black;
+	/* border: 2px solid black; */
 	table-layout: fixed;
 	border-collapse: collapse;
-	//box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4);
+	/* box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4); */
 }
 td.bioname {
 	font-size: 15px;
@@ -478,9 +477,9 @@ td.bio {
 	width: 145px;
 	text-align: left;
 	vertical-align: top;
-	//padding: 5px;
+	/* padding: 5px; */
 	word-wrap: break-word;
-	//font-style: italic;
+	/* font-style: italic; */
 	font-size: 12px;
 	background-color: #EEF5F6;
 }
@@ -488,12 +487,12 @@ td.biopic {
 	height: 82px;
 	width: 82px;
 	border: 1px solid #0A335E;
-	//background-color: rgba(0,0,0,0);
+	/* background-color: rgba(0,0,0,0); */
 }
 td.biooffice {
-	//border: 2px solid black;
+	/* border: 2px solid black; */
 	text-align: center;
-	//height:26px;
+	/* height:26px; */
 	padding: 3px;
 	font-weight: 400;
 	font-size: 20px;
@@ -504,7 +503,7 @@ img.biopic {
 	float: right;
 	width: 82px;
 	height: 82px;
-	//border:-2px solid #0A335E;
+	/* border:-2px solid #0A335E; */
 }
 div.profilesFlexContainer {
 	overflow: hidden;
@@ -523,7 +522,7 @@ table#schedule {
 	table-layout: fixed;
 	margin-bottom: 5px;
 	width: 100%;
-	//box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4);
+	/* box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4); */
 }
 td.scheTournament {
 	font-size: 18px;
@@ -563,11 +562,11 @@ table#season-schedule {
 	margin-bottom: 5px;
 	width: 96%;
 	margin-left: 2%;
-	//box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4);
+	/* box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4); */
 }
 table#season-schedule th {
 	font-size: 100%;
-	//border: 1px solid #022636;
+	/* border: 1px solid #022636; */
 	background-color: #2C5C8E;
 	color: white;
 	height: 30px;
@@ -673,7 +672,7 @@ table.resultsMenu {
 	width: 100%;
 	font-size: 15px;
 	margin-bottom: 15px;
-	//color: #21779B;
+	/* color: #21779B; */
 }
 table.resultsMenu a {
 	color: #21779B;
@@ -701,12 +700,12 @@ th#rMRight a {
 table.resultsTitleA {
 	width: 100%;
 	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-	//color: #21779b;
+	/* color: #21779b; */
 	font-size: 20px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 	box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.4);
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f4f4f4+98 */
+	/* Permalink - use to edit and share this gradient: http:/* colorzilla.com/gradient-editor/#ffffff+0,f4f4f4+98 */
 	background: #ffffff;
 	/* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f4f4f4 98%);
@@ -833,14 +832,14 @@ img.huge {
 	max-height: 600px;
 	float: left;
 	z-index: 0;
-	//box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+	/* box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4); */
 }
 img.thicc {
 	max-width: 100%;
 	max-height: 555px;
 	float: left;
 	z-index: 0;
-	//box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+	/* box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4); */
 }
 img.large {
 	width: 400px;
@@ -913,7 +912,7 @@ table#invitationalresults th {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-size: 30px;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
+	/* Permalink - use to edit and share this gradient: http:/* colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
 	background: rgb(255, 255, 255);
 	/* Old browsers */
 	background: -moz-linear-gradient(45deg, rgba(255, 255, 255, 1) 0%, rgba(229, 229, 229, 1) 100%);
@@ -1021,7 +1020,7 @@ p.showmore2 a {
 	box-shadow: 6px 3px 5px rgba(0, 0, 0, 0.4);
 }
 #pictureshow {
-	//height: 600px;
+	/* height: 600px; */
         height: 555px;
 	width: auto;
 	overflow: hidden;
