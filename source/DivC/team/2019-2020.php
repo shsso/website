@@ -1,0 +1,457 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<h1>Our Team for the 2019-2020 Season</h1><hr>
+<?php 
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/team/officers/Officers_2019-2020.php");
+?>
+
+<h2>All Members</h2>
+<div class="profilesFlexContainer">
+<table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/KushA20.gif"/></td>
+<td class="bioname">Kush A.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AnaghaC20.gif"/></td>
+<td class="bioname">Anagha C.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/UrveeD20.gif"/></td>
+<td class="bioname">Urvee D.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/JustinD20.gif"/></td>
+<td class="bioname">Justin D.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/MuH20.gif"/></td>
+<td class="bioname">Mu H.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/SrujanJ20.gif"/></td>
+<td class="bioname">Srujan J.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RuthJ20.gif"/></td>
+<td class="bioname">Ruth J.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/SteveJ20.gif"/></td>
+<td class="bioname">Steve J.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/DerekL20.gif"/></td>
+<td class="bioname">Derek L.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/NithyaN20.gif"/></td>
+<td class="bioname">Nithya N.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ShadhvikaN20.gif"/></td>
+<td class="bioname">Shadhvika N.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AnsumanN20.gif"/></td>
+<td class="bioname">Ansuman N.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/TemiO20.gif"/></td>
+<td class="bioname">Temi O.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RamyaP20.gif"/></td>
+<td class="bioname">Ramya P.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ErvinQ20.gif"/></td>
+<td class="bioname">Ervin Q.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/NicoT20.gif"/></td>
+<td class="bioname">Nico T.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/KevinZ20.gif"/></td>
+<td class="bioname">Kevin Z.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/JayA21.gif"/></td>
+<td class="bioname">Jay A.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AlexisD21.gif"/></td>
+<td class="bioname">Alexis D.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RichardJ21.gif"/></td>
+<td class="bioname">Richard J.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/YashK21.gif"/></td>
+<td class="bioname">Yash K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/MichaelK21.gif"/></td>
+<td class="bioname">Michael K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/KesavK21.gif"/></td>
+<td class="bioname">Kesav K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RebeccaL21.gif"/></td>
+<td class="bioname">Rebecca L.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/LouisaL21.gif"/></td>
+<td class="bioname">Louisa L.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AlexL21.gif"/></td>
+<td class="bioname">Alex L.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/YahyaQ21.gif"/></td>
+<td class="bioname">Yahya Q.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/WesleyS21.gif"/></td>
+<td class="bioname">Wesley S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/PranavS21.gif"/></td>
+<td class="bioname">Pranav S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/GiridharS21.gif"/></td>
+<td class="bioname">Giridhar S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RachelZ21.gif"/></td>
+<td class="bioname">Rachel Z.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/FarhaanA22.gif"/></td>
+<td class="bioname">Farhaan A.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RiaA22.gif"/></td>
+<td class="bioname">Ria A.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ShayakC22.gif"/></td>
+<td class="bioname">Shayak C.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/GabrieleG22.gif"/></td>
+<td class="bioname">Gabriele G.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/DylanH22.gif"/></td>
+<td class="bioname">Dylan H.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AlexH22.gif"/></td>
+<td class="bioname">Alex H.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AaronK22.gif"/></td>
+<td class="bioname">Aaron K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/JaneK22.gif"/></td>
+<td class="bioname">Jane K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/SreenidhiK22.gif"/></td>
+<td class="bioname">Sreenidhi K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/DannyK22.gif"/></td>
+<td class="bioname">Danny K.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/RyanL22.gif"/></td>
+<td class="bioname">Ryan L.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/LindseyM22.gif"/></td>
+<td class="bioname">Lindsey M.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/YubinM22.gif"/></td>
+<td class="bioname">Yubin M.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/FareedaN22.gif"/></td>
+<td class="bioname">Fareeda N.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/SuderN22.gif"/></td>
+<td class="bioname">Suder N.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ShivamP22.gif"/></td>
+<td class="bioname">Shivam P.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/MichelleP22.gif"/></td>
+<td class="bioname">Michelle P.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ChinmayeeR22.gif"/></td>
+<td class="bioname">Chinmayee R.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AdityaR22.gif"/></td>
+<td class="bioname">Aditya R.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/OshinS22.gif"/></td>
+<td class="bioname">Oshin S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/HarshavardhanS22.gif"/></td>
+<td class="bioname">Harshavardhan S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AndrewS22.gif"/></td>
+<td class="bioname">Andrew S.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/DericT22.gif"/></td>
+<td class="bioname">Deric T.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/DanvanthV22.gif"/></td>
+<td class="bioname">Danvanth V.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/JayanthV22.gif"/></td>
+<td class="bioname">Jayanth V.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AmulyaV22.gif"/></td>
+<td class="bioname">Amulya V.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AllisonY22.gif"/></td>
+<td class="bioname">Allison Y.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/IrisY22.gif"/></td>
+<td class="bioname">Iris Y.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/AsiyaZ22.gif"/></td>
+<td class="bioname">Asiya Z.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ScottZ22.gif"/></td>
+<td class="bioname">Scott Z.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table><table class="bio"><tr>
+<td class="biopic" rowspan="2"><img class="biopic" src="/DivC/images/profilepics/ZimiaoM23.gif"/></td>
+<td class="bioname">Zimiao M.</td>
+</tr>
+<tr>
+<td class="bio">	</td>
+</tr>
+</table></div>
+
+
+<p class="center"><a href="/DivC/team/">Previous teams</a></p>
+
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

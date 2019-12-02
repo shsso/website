@@ -1,0 +1,27 @@
+<!-- Note: the old calendar is /DivC/calendar/, this page is /DivC/calendar.php -->
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<script>
+
+</script>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=solonscienceolympiad%40gmail.com&ctz=America/New_York" style="border: 0; margin-left: 1%" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- 800 600 -->
+<p style="font-family:'Calibri'; font-size:70%; margin-left: 1%">Calendar not displaying properly? Try the <a href="/DivC/calendar/">old calendar</a>.</p>
+
+<div id="calendar-info">
+   <h2 style="text-align:left">On this calendar (most recently):</h2>
+   <h3 style="text-align:left">Practice Schedule 2019-2020 Season</h3>
+   <h3 style="text-align:left">Tentative Invitational Dates 2019-2020 Season</h3>
+   <h3 style="text-align:left">Tentative States and Nationals 2020 (dates are fixed, tentative in the sense of if we make it)</h3>
+  <h3 style="text-align:left">Woodshop, Flying, and Calibration Times</h3>
+   <h2 style="text-align:left">Reminder: There is a mandatory practice <i>every Thursday</i> between 6:00 and 9:00 pm in room 240
+	(unless stated otherwise)</h2>
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

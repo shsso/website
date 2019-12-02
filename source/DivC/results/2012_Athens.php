@@ -1,0 +1,115 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2012_Northmont.php">prev</a>
+</th><th id = "rMCenter">2012 Athens Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2012_Clearview.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table width= "639px" class="results-text">
+<tr><td width="48%" valign="top">
+Solon Team 19 finishing 1st overall<br>with a score of 94<br><br>
+
+<font size="2" style="arial">
+
+<b>1st Place</b><br>
+Anatomy: Aditya & Ojas<br>
+Astronomy: Alan & Eliot Mook <br> 
+Disease Detectives: Aditya & Thomas <br> 
+Dynamic Planet: Alan & Ojas<br> 
+Forensics: Crystal & Lisa <br>
+Microbe Mission: Aditya & Lisa <br>
+Protein Modeling: Crystal, Kevin Sun & Thomas <br>
+Robot Arm: Andrew & Ojas <br>
+Technical Problem Solving: Lisa & Kevin Ikeda <br>
+Towers: Kevin Sun & Thomas <br> 
+<br>
+<b>2nd Place</b><br>
+Chemistry Lab: Lisa & Kevin Ikeda <br>
+Gravity Vehicle: Andrew & Rohan <br>
+ 
+
+<br>
+<b>3rd Place</b><br>
+Experimental Design: Ben, Jessica & Yuxi <br>
+Geek Speek: Rosemary & Mrs. Mikofalvy<br>
+Rocks and Minerals: Jack & Yuxi <br>
+<br>
+<b>4th Place</b><br>
+Sounds of Music: Kevin Sun & Eliot Mook <br>
+ 
+
+<br>
+<b>5th Place</b><br>
+Remote Sensing: Alan & Rohan <br> 
+<br>
+<b>6th Place</b><br>
+Fermi Questions: Alan & Kevin Ikeda <br> 
+Thermodynamics: Andrew & Jack <br> 
+<br>
+<br></font>
+</td>
+
+<td width="4%"></td>
+
+<td width=48% valign="top">
+Solon Team 29 finishing 2nd overall<br>with a score of 123<br><br>
+
+<font size="2">
+
+<b>1st Place</b><br>
+Chemistry Lab: Stephen & Jonathan <br>
+Fermi Questions: Rick & Chanu <br>
+Sounds of Music: Hyunwook & John <br>
+Neuroscience: Nick & Sharan <br> 
+
+<br>
+<b>2nd Place</b><br>
+Experimental Design: Katrina, Jonathan & Roger <br>
+Forensics: Katie & Stephanie <br>
+Thermodynamics: Stephen & Elliot Golias <br>
+Remote Sensing: Ayush & Chanu <br>
+ 
+
+<br>
+<b>3rd Place</b><br>
+Astronomy: Roger & Stephanie <br>
+Dynamic Planet: Ayush & Chanu <br>
+Optics: John & Stephen <br>
+
+<br>
+<b>4th Place</b><br>
+Disease Detectives: Katie & Nick <br>
+Protein Modeling: Ayush, Roger & John <br>
+Write It Do It: Stephanie & Stephen <br>
+ 
+<br>
+<b>5th Place</b><br>
+Forestry: Ben & Katrina <br>
+Helicopters: Hyunwook & John <br>
+Rocks and Minerals: Hyunwook & Kanithra <br>
+Towers: Shashank & Katie <br> 
+
+
+<br>
+<b>6th Place</b><br>
+Robot Arm: Rick & Jonathan <br> 
+
+
+<br>
+
+<br>
+</font></td>
+<tr>
+</table></div>
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

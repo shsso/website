@@ -1,0 +1,49 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2014_Nationals.php">prev</a>
+</th><th id = "rMCenter">2014 Sylvania-Northivew Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2015_Westlake.php">next</a>
+</th></tr></table></div>
+
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='100%' valign='top'>
+Solon Team 28, placing 1st and Solon Team 29, placing 6th<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st</b><br>
+<span id='b0'class='no-spacing small'>GreenGeneration:Max L</span><br>
+<span id='b1'class='no-spacing small'>WIDI:Jonathan W & Emily W</span><br>
+<span id='b2'class='no-spacing small'>DiseaseDetectives:Vishal S</span><br>
+<span id='b3'class='no-spacing small'>GeologicMapping:Zach B & Lois W</span><br>
+<b class='no-spacing small'>2nd</b><br>
+<span id='b0'class='no-spacing small'>BridgeBuilding:Max L</span><br>
+<span id='b1'class='no-spacing small'>DynamicPlanet:Michael Z & Ethan M</span><br>
+<span id='b2'class='no-spacing small'>Forensics:Dorothy C & Rahul R</span><br>
+<span id='b3'class='no-spacing small'>TPS:Rahul R</span><br>
+<span id='b4'class='no-spacing small'>WrightStuff:David G</span><br>
+<b class='no-spacing small'>3rd</b><br>
+<span id='b0'class='no-spacing small'>ChemistryLab:Zach B</span><br>
+<span id='b1'class='no-spacing small'>CompoundMachines:Zach B & David G</span><br>
+<span id='b2'class='no-spacing small'>WIDI:Dorothy C & Lois W</span><br>
+<b class='no-spacing small'>4th</b><br>
+<span id='b0'class='no-spacing small'>CellBiology:Rohin D & Zach S</span><br>
+<span id='b1'class='no-spacing small'>DiseaseDetectives:Achuth N & Aakash S</span><br>
+<b class='no-spacing small'>5th</b><br>
+<span id='b0'class='no-spacing small'>Astronomy:Rohin D & Tim J</span><br>
+<span id='b1'class='no-spacing small'>Anatomy&Physiology:Achuth N & Dorothy C</span><br>
+<b class='no-spacing small'>6th</b><br>
+<span id='b0'class='no-spacing small'>ProteinModeling:Jonathan W & Maria G</span><br>
+<span id='b1'class='no-spacing small'>XPD:Vishal S</span><br>
+<br></font></td></tr></table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

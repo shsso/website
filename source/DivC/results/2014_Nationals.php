@@ -1,0 +1,31 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2014_States.php">prev</a>
+</th><th id = "rMCenter">2014 Nationals @ University of Central Florida</a>
+</th><th id = "rMRight"><a href="/DivC/results/2014_Sylvania-Northview.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='100%' valign='top'>
+Solon Team 13, finishing 5th overall with a score of 302<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Technical Problem Solving: Alan & Zach</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Circuit Lab: Tyler & Zach</span><br>
+<span id='b0' class='no-spacing small'>Disease Detectives: Achuth & Nick</span><br>
+<br><b class='no-spacing small'>5th Place</b><br>
+<span id='b1' class='no-spacing small'>Entomology: Emily & Lois</span><br>
+<span id='b2' class='no-spacing small'>GeoLogic Mapping: Alan & Lois</span><br>
+<span id='b3' class='no-spacing small'>Rocks and Minerals: Josh & Rohin</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Water Quality: Crystal & Emily</span><br>
+<br></font></td></tr></table></div>
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

@@ -1,0 +1,269 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+	
+<h1>Dev Log</h1>
+<hr>
+
+<span id="dev-log">
+<p>
+2019/10/28 - Images in header carousel have been resized because oh my god why were we scaling 6000 x 4000 images down to 200 pixels tall?
+</p><p>
+2019/09/22 - Removed broken 2019 Invitational link from footer.
+</p><p>
+2018/01/15 - Added information to the sponsor page. Renamed /DivC/index.php (Overview) to /DivC/overview.php, and renamed /DivC/news.php (News) to /DivC/index.php. This was done because we considered the news as the more important page, and thus it would be more natural to have the naming scheme reflect the hierarchy of landing.
+</p><p>
+2017/12/03 - Figured out how to use jQuery to simulate custom tags in HTML, promptly replaced all of the annoying nested &ltli&gt, &ltul&gt, and &lta&gt tags on the "Important Docs" list to use two neatly formatted custom tags. Shortened most links to remove annoying line length and overflow when editing online.
+</p><p>
+2017/09/26 - Wrote script to reformat the widely varying date formats in the devlog into a zero-padded yyyy/mm/dd (%Y/%m%d) format. Finally rewrote team index files script using uksort (who cares if it only reordered 5 files?).
+</p><p>
+2017/09/18 - DivC link from homepage now links to "News" instead of "Overview", as there is more information there for students unfamiliar with the navigation of the website.
+</p><p>
+2017/09/01 - Rewrote a lot of PHP (especially link-gathering scripts). Used regex to turn the previous filenames on the results archives page into presentable invitational names.<br>For those interested, the regex replaced all matches on /(?&lt![A-Z _-])(?=[A-Z])|_/ with a space, followed by slicing off the last 4 characters.
+</p><p>
+2017/08/27 - New calendar added! Info beneath calendars synced for convenience. Please make the sidebars end.
+</p><p>
+2017/08/26 - Alpha test for new calendar finished, waiting to begin beta. More sidebars were removed. Results archive's array sorting was changed to rsort so more recent results were at the top and non-invitational results were given priority. "Important Documents" moved to "Main" because it made no sense under "Team". Gradually began to replace some of our old Javascript with jQuery
+</p><p>
+2017/08/24 - Added temporary "Important Documents" page to house meeting-related documents. Special header for Alumni section was changed to standard heading. Sidebar was <s>fully removed from all of the pages</s> most of the pages (like this one). Edit: please contact Justin Prindle if you find more sidebars anywhere
+</p><p>
+2017/07/?? - Side bar removed, color scheme, buttons, menus, and fonts changed towards a more simplistic design
+</p><p>
+2017/07/01 - Changed landing page to general info, moved previous "News" to a separate page. Removed general information option from "About Us". Removed most outdated information to be updated later.
+</p><p>
+2016/12/12 - Added countdown timers to fixed sidebar
+</p><p>
+2016/11/23 - Cleaned up vertical menu, added "Resources" tab. "Centered" the horizontal menu on wide screens (where the vertical menu is shown also). Make two columns in the invitational page - still looks ugly, will have to fix. Adjusted fixed sidebar margins.
+</p><p>
+2016/10/28 - Added schedule to 2015-2016 team page, removed old separate schedule pages and old calendar page. Fixed side nav bar overlapping fixed elements when expanding.
+</p><p>
+2016/10/27 - Made link colors in text and side nav better colors.
+</p><p>
+2016/10/24 - Removed fixed scrolling for sidebar sponsors in drop down on narrow screens because fixed positioning does not work well with touchscreen scrolling on mobile, apparently. Added list of team members.
+</p><p>
+2016/10/09 - "Fixed" sponsors section in sidebar, added a back to top button.
+</p><p>
+2016/10/06 - Updated credits page based on new info, made horizontal nav text bolder. Removed some unecessary buttons from the side nav. Uploaded a few new event pics. Went back to center alignment for headers and added white space below vertical nav - no longer have to worry about "wasting" that space because vertical nav is hidden on small screens now anyways. Good place to put sponsors too, if we ever get those. Wait we actually have one. Added. And finished event pics for everything. Well not for 2015. Dang it. Increased size of prev and next buttons.
+</p><p>
+2016/09/28 - Moved content section up to be flush with horizontal nav. Made background very slightly grey. Added links to results history page header and made text larger. Okay nvm, grey looks weird.
+</p><p>
+2016/09/24 - Moved steve zhou to bottom of start page. Made copyright text gray.
+</p><p>
+2016/09/21 - New images on the slideshow! (from 2014... still more recent than before, okay?) Somehow crashed the whole site while trying to use php to include all images in a directory, so we have a crash page now (see .htaccess file). Old slideshow pictures still remain on alumni page, as promised. Fixed slight positioning issue with the background of the slideshow.
+</p><p>
+2016/09/20 - Added new calendar using FullCalendar with events from the Google Calendar
+</p><p>
+2016/09/18 - Made the drop-down menus on the side nav toggle, removed some old unused classes in the nav templates, broke and fixed the more button somehow (switched from onclick to href="javascript:function()"), not sure why that works instead now when other one was fine before. Idk. Finally finished the prototype php and picture file generator for the results pages, updated all the old pages from 2015-2016 onward with the "new" style and fixed all missing image links.
+</p><p>
+2016/09/15 - Switched (on small screens only) from hamburger menu (yuck!) to more/less button in horizontal nav. Changed the number footnotes on the results history page to proper footnote symbols to prevent confusion of how many points were scored (definitely not in the 4 digit range lol). Finally fixed footer for good, I think.
+</p><p>
+2016/09/04 - Updated some divs to HTML5 tags because why not. Removed some loose div tags on a lot of pages because of previous statement. (Dang it Michael stop making more work for yourself.)
+</p><p>
+2016/08/29 - Vectorized the swirly things on the side of the slideshow as well. It took way too long. I am not good at vector images. But it looks pretty now, so that's good.
+</p><p>
+2016/08/28 - Replaced simpletext logo with a svg trace - oh my god it was so much more difficult than it sounds. Fixed the vw to px transition
+when going between different width. (See media queries in stylesheet) TODO: fix navigation flow when selecting aboutus or results when sidenav is hidden by default on narrow screens
+</p><p>
+2016/08/28 - Added in a horizontal menu! Hope it looks nice.
+</p><p>
+2016/08/11 - Updated officers and schedule for 2017, made archive page look better
+</p><p>
+2016/08/09 - Uploaded images for some people and events on results pages, properly linked next and prev links (finally)
+</p><p>
+2016/08/01 - Yayyyyyyy finished an Excel spreadsheet for team stats and a program to generate the results pages automatically from the Excel
+sheet. Updated all results pages from 2016 season - should now be more accurate and look a bit better, too. Literally worked the entire day lol (10am-10pm).
+</p><p>
+2016/04/09 - Yeeesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss. Might sleep for 18 hours now. Much thanks to
+Raaahuul and his turtle.
+</p><p>
+2016/02/21 - Was too lazy to redo the broken results HTML generator, caught up on detailed results the slow way.
+</p><p>
+2016/01/27 - Added a test directory for uploading files (url semi-secret), seems to work. Removed the odd looking button for Intranet,
+replaced with default nav button. Merged Calendar and Schedules buttons/pages into a simple Schedule button. Posted detailed results for 
+Westlake and Kenston. Changed it so that menu toggle is simply invisible on the wider screens, but still clickable (because that button is
+SOOOO fun!)
+</p><p>
+2016/01/26 - Finally made it so that hamburger menu doesn't show up on desktop. Expect major updates this week, as the Solon
+Invitational fast approaches.
+</p><p>
+2016/01/11 - Changed nav bar font color to white, changed color-change on hover to box-shadow change on hover (looks much
+fancier). Added a box shadow to the carasel (how do you spell it) header.
+</p><p>
+2015/12/31 - Added an archive tab, move most of the news from home to there. Aligned a bunch of stuff to the left (not politically).
+Looks cleaner?
+</p><p>
+2015/12/12 - Made a stupid little page of other SO websites for judgemental comparison purposes. See
+<a href="/DivC/misc/other-so-websites.php">here</a> Added some basic media queries for font size (now
+larger for paragraphs on mobile) AND now removed because things started to look funny in relative sizings.
+Using vw now for fullscreen desktop, and back to somewhat small 18px for mobile and non fullscreen desktop. 
+Text is now sized properly for high res screens and browsers besides Firefox that zoom out more. Someone 
+confirm please, do not have any super hires screens to test with. But should be good. Will be good. Definitely good.
+HAHAHA just tested zooming out ridiculously small. It works!
+</p><p>
+2015/12/11 - Changed all page headings from h2 to h1 with a line underneath. Changed font back to
+Georgia. Fixed nav's dependency on flex boxes for centering text to ensure compatability with older
+browsers. Switched to 100% width layout, looks decent (better than last attempt for some reason, even
+though I don't think anything has changed significantly).
+</p><p>
+2015/12/10 - Found and noted issue on Chrome where the menu toggle doesn't update the width of
+the "expanded" divs that fill up space to the left of the nav. Implemented temporary javascript
+fix for newswrap div only for now, looking for better solution.
+</p><p>
+2015/12/09 - Added a pseudo menu toggle for use on mobile devices. Looks a bit out of place now,
+will fix later.
+</p><p>
+2015/11/18 - Fixed icon transparency issue (again?) by switching to png. Switched some links and
+content around. Changed css so that buttons in the nav bar use same background and now the text is 
+actually text. Also, since I couldn't find the original font, the new font is now Rundkursiv.
+</p><p>
+2015/11/17 - Optimized webpage speed and fixed jQuery being blocked on school wifi (why???) by
+downloading the file to the website.
+</p><p>
+2015/11/16 - Cleaned up some things leftover from the variable width thing, added blue border
+around page on wide screens, instead of the box shadow.
+</p><p>
+Changed the blue border to a solid blue box shadow because it was messing with the sticky footer.
+Added an offset for the carousel slideshow so it looks "right" instead of a glitched portion of 
+another picture. Changed font. Made pictures tab swipable (looks pretty fancy).
+</p><p>
+2015/11/15 - Finally finished support for variable widths across all elements (except for the
+slideshow header, not sure what to do about that yet). Made website display wider on desktop,
+mobile should look the same as before. UPDATE: Upgraded to Cycle2, using carousel fx as a
+temporary solution to fill up the empty space on the wider desktop. (Looks a bit odd).
+</p><p>
+2015/11/14 - Readded Invitational Results on the Results History page, updated with info from
+2013 to present day. Also looked into implementing the nav as one of those triple horizontal
+line button dropdown menus on mobile to clear up horizontal space.
+</p><p>
+2015/11/13 - Unlucky day! We're going retro, boys! (Switched back to the gradient background
+spanning the whole width of page, just like in the old days. See how it goes, might switch
+back.) Nevermind, switched it back. Looked a bit too odd. Am considering a wider desktop
+version of the site in future.
+</p><p>
+2015/11/12 - Added content to footer, miscellaneous fixes, messed around with font sizes
+</p><p>
+2015/11/11 - Happy Singles Day! Fixed order of divs (header now comes before the nav) in
+preparation to redo how everything is css positioned (will look the mostly the same, but will 
+be more flexible in future from a dev standpoint). 
+</p><p>
+UPDATE: Properly repositioned all divs,
+implemented sticky footer. Now website won't completely break when editing one div. Now
+possible to increase width of website without breaking everything, might do that for
+desktop?
+</p><p>
+2015/11/10 - Removed unnecessary containerwrapper, added basic footer (mostly contentless 
+for now). Doesn't work too well on mobile, fix in progress.
+</p><p>
+2015/11/09 - Updated flickr embeds (should show on mobile now?). Hid news scrollbar using 
+CSS on IE? and Chrome(still have to use the overflow div method for Firefox). Fixed odd
+issue with incosistent widths on the nav bar.
+</p><p>
+2015/11/08 - Finished copying all the old results pages over to the new website layout.
+Still need to link all them in chronological order, though.
+</p><p>
+2015/11/06 - Made invitational page look a bit better. Still pretty odd looking.
+</p><p>
+2015/11/05 - Added Trial Tests results.
+</p><p>
+2015/11/04 - Added results dropdown with links to new (not yet finished) pages. Applied
+ScrollSneak to all links on the index pages.	
+</p><p>
+2015/11/01 - BOX SHADOWS ARE SO COOL! MUST BOX SHADOW EVERYTHING! Also added a meta tag
+for the viewport so that a tiny sliver of the background is now visible on mobile.
+</p><p>
+2015/11/01 - Found the oldest news updates (from 2009!) and added them to the current site.
+Switched to Sherlock-inspired background. Copyright issues? Maybe. Will proably switch
+to something else soon.
+</p><p>
+2015/10/31 - Added links and refurbished the SPOOKY old versions of the website, now
+acessible from misc links! There is actually some pretty cool stuff there.
+</p><p>
+2015/10/30 - Added first slideshow on pictures tab. Jonathan is pretty.
+Added results button, removed downloads button.
+</p><p>
+2015/10/28 - Added "Sneak Scroll" so that clicking on anything in the nav bar keeps
+the page scroll location the same even as the page changes. 
+</p><p>
+2015/10/27 - Added credits and dev log (this page, yay!) to misc links
+</p><p>
+2015/10/27 - Got text to wrap around nav bar. Still working on trying to do the same
+for tables. Also, this page doesn't warp becuase all this stuff is in a pre. (a bit
+later) Gave up on the variable width tables and implemented the scrolling news section
+for the homepage instead.
+</p><p>
+2015/10/25 - Reorganized entire file structure to better organization into actual
+folders. Also switched the nav bar to the right side. Questionable? Highly.
+</p><p>
+2015/10/25 - Switched all pages over to PHP. Makes editing the website template for
+all pages much easier, but pages are now loading slower? Might be a caching issue,
+so it'll fix itself eventually hopefully?
+</p><p>
+2015/10/06 - Changed all the button images from .png to .gif, reducing file sizes by
+over 50% without any noticiable? affect on quality. (Let me know if you can tell the
+difference.) 
+</p><p>
+Also finished the Java program to convert the results from PDF and Excel
+to the HTML tables, now need to finalize the CSS and images for each event, and the
+results pages should then be able to be added for all of last year in less than 30
+minutes. Yay!
+</p><p>
+Oh, and also fixed the color of the invitational button (was black, now matches the
+dark blue of the other buttons)
+</p><p>
+2015/10/04 - Sucessfully (and finally) set up a proper sync between Eclipse and the
+website, so editing multiple pages at once should be somewhat easy now
+</p><p>
+2015/10/04 - Created proof-of-concept page for invitational results (resultstest.html) 
+w/ support for profile pics for each event and person, so also added dancing banana pic.
+</p><p>
+2015/10/03 - Made all the news posts into tables. Tables are fun. Might be a bad idea.
+</p><p>
+2015/10/03 - Created pseudo-dropdown menu for the aboutus tab to access officer page and
+other pages, changed the alumni page so that most recent alumni are displayed first
+(good idea?)
+</p><p>
+2015/10/03 - Made a page for officer profiles. It is excellent.
+</p><p>
+2015/10/01 - Changed body background from the white gradient (still part of main content) 
+to the solid bluish color
+</p><p>
+2015/09/30 - Added new button. Font and styling doesn't quite match... will either fix it
+or just change all the buttons...
+</p><p>
+2015/09/22 - Added one recent image to the header cycle. Turned out decently, still need
+to figure out a good way to do those white dot things, for now it just copies one of the
+older images.
+</p><p>
+2015/09/21 - Updated jQuery Cycle plugin and fixed images not loading improperly
+</p><p>
+2015/09/21 - Fixed jQuery not loading issue? Hopefully.
+</p><p>
+2015/09/20 - Got the nav bar to light up the current page location using this javascript:</p>
+<pre>
+	window.onload = function test(){
+		var elems = document.getElementsByClassName("downloads");
+	    elems[0].style.backgroundPosition = "left -44px";
+	}
+</pre>
+<p>
+Took wayyyy longer than I'm willing to admit. And it's probably not the best way to do it
+either, but I'm just happy it works.
+</p><p>
+2015/09/19 - Mostly fixed the Div B website, added link to Div B Invitational file
+</p><p>
+2015/09/19 - Added a page for invitational info using the traitor's design. (Which was
+badly broken, by the way, and took forever to fix.)
+</p><p>
+2015/09/19 - Fixed tranparency issue with website icon
+</p><p>
+2015/09/18 - Fixed sitewide 403 error (caused by using FTP server? who knows) by moving
+all directories to public_html
+</p><p>			
+2015/09/18 - Linked website with Eclipse via Aptana, modified .htaccess file to allow 
+instant updates
+</p></span>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

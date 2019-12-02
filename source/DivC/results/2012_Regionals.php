@@ -1,0 +1,68 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2012_Mentor.php">prev</a>
+</th><th id = "rMCenter">2012 Regionals @ CWRU</a>
+</th><th id = "rMRight"><a href="/DivC/results/2012_WestLiberty-Salem.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='48%' valign='top'>
+Solon Team 10, finishing 1st overall with a score of 65<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Experimental Design: Ben & Roger & Jonathan</span><br>
+<span id='b1' class='no-spacing small'>Microbe Mission: Roger & Aditya</span><br>
+<span id='b2' class='no-spacing small'>Technical Problem Solving: Roger & Chanukya</span><br>
+<span id='b3' class='no-spacing small'>Thermodynamics: Chanukya & Stephen</span><br>
+<span id='b4' class='no-spacing small'>Towers: Shashank & Kevin</span><br>
+<span id='b5' class='no-spacing small'>Water Quality: Ben & Shashank</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Stephanie alone</span><br>
+<span id='b1' class='no-spacing small'>Chemistry Lab: Stephen & Jonathan</span><br>
+<span id='b2' class='no-spacing small'>Fermi Questions: Rick & Chanukya</span><br>
+<span id='b3' class='no-spacing small'>Forensics: Stephanie & Katrina</span><br>
+<span id='b4' class='no-spacing small'>Gravity Vehicle: Rick & Aditya</span><br>
+<span id='b5' class='no-spacing small'>Helicopters: John & Katrina</span><br>
+<span id='b6' class='no-spacing small'>Protein Modeling: John & Roger & Kevin</span><br>
+<span id='b7' class='no-spacing small'>Rocks and Minerals: Ojas & Stephanie</span><br>
+<span id='b8' class='no-spacing small'>Sounds of Music: John & Kevin</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Rohan alone</span><br>
+<span id='b1' class='no-spacing small'>Dynamic Planet: Ojas & Tony</span><br>
+<span id='b2' class='no-spacing small'>Optics: John & Rohan</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Forestry: Ben alone</span><br>
+<span id='b1' class='no-spacing small'>Remote Sensing: Chanukya & Tony</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Disease Detectives: Aditya & Rohan</span><br>
+<br></font></td><td width='4%' valign='top'></td>
+<td width='48%' valign='top'>
+Solon Team 9, finishing 2nd overall with a score of 69<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Chemistry Lab: Lisa & Victoria</span><br>
+<span id='b1' class='no-spacing small'>Fermi Questions: Alan & Jack</span><br>
+<span id='b2' class='no-spacing small'>Gravity Vehicle: Andrew & Crystal</span><br>
+<span id='b3' class='no-spacing small'>Protein Modeling: Ayush & Thomas & Crystal</span><br>
+<span id='b4' class='no-spacing small'>Sounds of Music: Hyunwook & Tyler</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Nick alone</span><br>
+<span id='b1' class='no-spacing small'>Disease Detectives: Thomas & Nick</span><br>
+<span id='b2' class='no-spacing small'>Dynamic Planet: Yuxi & Alan</span><br>
+<span id='b3' class='no-spacing small'>Forestry: Lauren alone</span><br>
+<span id='b4' class='no-spacing small'>Microbe Mission: Thomas & Nick</span><br>
+<span id='b5' class='no-spacing small'>Remote Sensing: Ayush & Alan</span><br>
+<span id='b6' class='no-spacing small'>Robot Arm: Andrew & Michael</span><br>
+<span id='b7' class='no-spacing small'>Write It Do It: Andrew & Jessica</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Forensics: Lisa & Crystal</span><br>
+<span id='b1' class='no-spacing small'>Rocks and Minerals: Yuxi & Hyunwook</span><br>
+<span id='b2' class='no-spacing small'>Thermodynamics: Andrew & Michael</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Optics: Jack & Tyler</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Experimental Design: Lauren & Michael & Jessica</span><br>
+<span id='b1' class='no-spacing small'>Helicopters: Lauren & Jessica</span><br>
+<span id='b2' class='no-spacing small'>Technical Problem Solving: Lisa & Jack</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Water Quality: Ayush & Victoria</span><br>
+<br></font></td></tr></table></div>
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

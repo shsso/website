@@ -1,0 +1,146 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+<h1 align="center">Latest Team News and Events</h1>
+<hr>
+
+<h2>May 21st, 2017 - Nationals</h2>
+
+<p>Congratulations guys!!! The team placed <a href="/DivC/results/2017_Nationals.php">third</a> in the nation, in the hardest tournament of the year. We placed in 10 events(!), brought home 2 golds(!!), and beat out last year’s champion, Mira Loma HS,(!!!) by 67 points in easily the best performance of the year!</p>
+
+<p>First and foremost, a huge thanks is in store for everyone who was able to make this nationals one of the most impressive performances in recent years. Thank you to all the event coaches for helping us prepare and do the best we could. Thank you to the board for paying for stuff, thank you to our wonderful captains Jonathan and Michael for not only being good at science olympiad, but also for being good friends and leaders, thank you to all the parents who support us even at three in the morning and drive down three hours to cheer us on, and most importantly, thank you Coach Geiger and Coach Eickmeier for doing everything but competing for us, You were an integral part in our success, ensuring that we were always taken care of, well rested and fed. It's only because of the help of all of these people that the team was able to do so well.</p>
+
+<p>As for the competition, we did wonderfully. Congratulations to Troy HS for being such a dominating force in the competition, as always, and congratulations to Harriton HS for putting up an equally competitive performance. Congratulations to Mentor for representing the state of Ohio alongside us, and doing well at the competition. We tied for second place with 211 points, 23 less than what Mira Loma won with last year at Wisconsin, and 90 points better than our 2016 team. This in itself is a commendable improvement, but ignoring all of that, we got THIRD in the nation. We made it clear on Saturday that Solon is one of the best teams in the country: Northville, who placed 4th, were 40 points behind us. Each and every one of you contributed something to the success of this team. </p>
+
+<p>Lastly, some closing remarks. It’s been wonderful to be your tech manager for the past season. Whether you use the website for the test database, or to check results, or even to read these news snippets, I’m glad to have been of any help. To coach Geiger, I, along with the rest of the team, am sad to see you part ways with the Solon Science Olympiad program. You were a wonderful, motivating, and such a down to earth coach, and the team will be very different without you. We wish you luck on whatever endeavors you choose to pursue, and you will be fondly remembered. Lastly, I’m proud of what we have accomplished this season, and what each of you have given for this team. Saturday was truly a testament to how much hard work pays off. I hope to see you all come back even hungrier for a national championship next year, and until then, take pride in the fact that you’re forever going to be a part of Solon Science Olympiad history. Peace out dawgs.</p>
+
+<h2>April 4th, 2017 - States (Aman's edition)</h2>
+<p>Hi guys, <a href="/DivC/results/2017_States.php">States</a> was both an impressive, and highly clutch showing. While we dominated in medal count (we had almost twice as many golds than the second closest team), we somehow managed to barely make it out. With that being said, I think it was an especially impressive victory in that we bombed two events and still made it to nationals. Talking about nationals, it's <a href="https://days.to/until/20-may">45 days away</a> and while it seems like a lot, its going to arrive sooner than you might think. At this point, what you sow is what you're going to reap, so put in the effort and you'll see results. Study hard, work together, and enjoy everything you can!</p>
+<h2>April 2nd, 2017 - Second at STATES</h2>
+
+<img src="/DivC/images/news/2017States.jpg" alt="2017 States" style="width:600px;overflow:hidden;margin:0 auto;display:block">
+
+<p>We made it! With <a href="https://docs.google.com/spreadsheets/d/1K2B8Z0gGGii5Lua99g49NecZbZbFN0NBsTPddXK9Kls/edit#gid=239318906">nine firsts, four seconds, and three thirds</a>, we certainly had an impressive performance overall. Congrats in order however to Mentor for winning with no placing lower than eighth(!). Let's focus on improving our performances (or replicating firsts) and consistency in the warmer climes of Dayton, Ohio on May 20th, where the competition will be even tougher!</p>
+
+<h2>March 10th, 2017 - End of the Regular Season</h2>
+
+<p>Hi all! Michael here. I just wanted to take a somewhat belated chance to thank you all for an amazing regular season this year - it is probably not an exaggeration to say that we have had the highest consistently ranking pair of teams from a single school in the nation this season, and this could not have been done without each and every one of you. It is therefore unfortunate but necessary that in picking the States team we had to leave behind a large number of you, but we know that we are forever grateful for all your work this season, and hope you will cheer us on going foward. States is in almost exactly three weeks from now, so let's all continue to make the most of our time. Let's go, post-season!</p>
+
+<h2>March 5th, 2017 - West Liberty Salem and Postseason</h2>
+<p>Hi guys! <a href="/DivC/results/2017_WestLiberty-Salem.php">West Liberty Salem results</a> are up. Yesterday was yet another fantastic performance on both teams, each team going sub 100 points for the second consecutive tournament in a row. Yesterday also marked a solid defeat of other Ohio teams including three Centerville Teams and two Mentor teams. We also had a solid win over Northville, one of the best teams in the nation. The states team should be announced later this week, and more announcements are sure to follow. Good job this entire season, I hope each one of you enjoyed the experience and learned a lot!</p>
+<h2>February 28th, 2017 - Regionals and West Liberty Salem</h2>
+<p>Hi all! <a href ="/DivC/results/2017_Regionals.php">Regionals results</a> are finally up, sorry for the delay. It was an absolute fantastic showing for both teams, placing under 100 points each. We brought home a lot of hardware too so that's nice as well. Our last regular season competition is coming up this weekend, so enjoy it and do your best!</p>
+
+<h2>February 11th, 2017(a little bit later'o'clock) - Mentor</h2>
+<p>Hey guys! What a wonderful showing at Mentor!!! We placed a whole bunch, dominated the entire competition, won by a big landslide, and overall just did a solid job. Congratulations to both (15 person, can you believe it!) teams for being outstanding. As the season slowly approaches its close, it's vital to know that nothing is final, and there's still a chance to show everyone what you've got. Work hard and work together to get better these last two competitions. Mentor awards can be found <a href="/DivC/results/2017_Mentor.php">here</a>.
+<h2>February 11th, 2017 - Solon Invite Tests and Keys</h2>
+
+<p>Sorry for the delay - <a href="/Registration/Solon2017DivC/login.php">tests and keys</a> are finally available for download! There are files from 11 events so far - more will be added soon. Please use the same username and password you used for registration. We ask that you please do not share these tests with those who did not attend the invitational. Thanks again for your attendance!</p>
+
+<h2>February 6th, 2017 - Thank you!!</h2>
+
+<p>A special thank you is necessary for our beloved coaches for organizing the largest ever Solon tournament and having everything run so flawlessly, and to all the parents who helped out with scoring, concessions, and hospitality. We couldn't have run such a successful tournament without everyone's help. Thank you to all the teachers that let us use their rooms for events, the school for letting us host such a large tournament, and the custodial staff for working to keep the school tidy both before and after the tournament. Lastly, thank you and congratulations to the team for both helping run the invitational smoothly, and for competing at such a high level! As the end of our season approaches, work together to learn and build and get better every day, and hopefully we can dominate at Mentor! </p>
+<h2>February 4th, 2017 - Solon Invitational Day!</h2>
+
+<p>Thank you to all the teams that competed at the Solon Invitational today and to all the volunteers that made this day possible! Congratulations to Northville for winning with a team score of 184 points! Full results can be found on the <a href="/DivC/invitational/2017.php">invitational page</a>, and tests and keys will be posted soon. We hope to see everyone next year!</p>
+
+<h2>February 1st, 2017 - Solon Invitational Trial Events and General Updates</h2>
+
+<p>We will be running two trial events at the Solon Invitational - Geek Speak (Trial Event #1) and Pentathlon (Trial Event #2). If you already signed up for these online, please try to come during your scheduled time slot; if not, these events will be freely Walk-In to allow as many competitors as possible to participate. For trials events, there will be no strict rules against mixing of members between teams from a single school - obviously those rules will still apply to non-trial events.</p>
+
+<p>Updated team numbers and home bases, event schedules, confirmation letters for coaches, and a map of school can be found on the <a href="/DivC/invitational/2017.php">invitational page</a>.</p>
+
+
+
+<h2>January 31st, 2017 - Helicopter room pictures</h2>
+<p>To all students from any schools that want to know what the helicopters room looks like, pictures can be found <a href="/images/SHSOrchestraRoom1.jpg">here</a>, <a href="/images/SHSOrchestraRoom2.jpg">here</a>, and <a href="/images/SHSOrchestraRoom3.jpg">here</a>. The room is 14 feet high.</p>
+
+<h2>January 30th, 2017 - Wright State and Solon</h2>
+<p>Happy snow day guys! Congratulations to a job well done by both teams! Full Wright State results can be found in the results tab, and tests can be found in the resources tab. Solon took third and fifth, the only team at the invitational to place two teams in the top eight. Considering this was one of the hardest invitationals of the season, the performance by both teams was very impressive. This weekend is the Solon invitational, so keep in mind that a lot of setup will be required. Furthermore, if you have not bought your beverages, keep that in mind as well. As we enter the second half of our season, it's important to remember that nothing is decided, so keep on trying your hardest and learn from each other. Have a productive snow day (special thanks to Solon Schools Superintendent Joe Regano for this miracle) and good luck at Solon!</p>
+
+<h2>January 22nd, 2017 - MIT and Wright State</h2>
+<p>Hi guys! Congratulations on a job well done at MIT! Our teams placed 4th and 7th at MIT, which is undoubtedly the hardest competition all year except for maybe nationals. Both teams combined, we brought home 37 medals and placed in 15 different events. MIT results can be found in the results page. Next week is Wright State, which is also a very high caliber invitational. Keep on studying, and let's see what next weekend brings!</p>
+
+
+<h2>January 19th, 2017 - Kenston and MIT</h2>
+
+<p>Hi all! Michael temporarily subbing in for Aman here. Kenston was amazing, to say the least - placing 1st and 2nd, eleven golds, and a total score under 100 - all of these accomplishments show that we are on good pace for MIT. That being said, we cannot let up now. Let's carry forward into the night on a hopefully not too cold bus with sunny skies awaiting us in Massachusetts!</p>
+
+<h2>January 8th, 2017 - Westlake and Kenston</h2>
+<p>Hi guys! Westlake was yesterday, and the team did a great job. Congratulations to Northville HS for dominating the tournament, and good job to us as well. Solon B (team 44) placed in 15 events, and Solon A placed in 9, We took home 5 golds, more than any other team in the competition (except Mason, who also took home 5 golds). The Kenston schedule can be found <a href="https://docs.google.com/spreadsheets/d/1H4HZ_AePhVHY1rWXnJjaxfjUsZxi8HNgCQ1sASIMj50/edit#gid=0"> here</a>. We have Friday off this week so use it to study and prepare for all of your events. MIT is two weeks from now and Wright State three. These are some of the hardest invitationals of the season, and its important to be prepared for them. Results from Westlake are up under Results -> Latest Results</p>
+<h2> December 15th, 2016 - Results</h2>
+<p>HAPPY SNOW DAY EVERYONE! I hope all of you are using this time to be productive, or enjoying your day off or something. The results from Sylvania are up and can be accessed on the sidebar under  Results --> Latest Results. Sorry for the delay. Also, Solon team 6 (yolo v2) placed second overall, not third, so congratulations again!</p>
+<h2> December 11th, 2016 - Sylvania</h2>
+<p>Hi guys. Sylvania was yesterday, and we did a really great job. Considering how a team of 9 individuals was able to place third (even after a sketchy event disqualification and half the mechanicals not working) we're off to a great start to the season. Congratulations to Mentor HS for winning the tournament. Remember to keep studying and building through the next invitational, and hopefully we can pull away with a win the next time. P.S. Results will be up in the next couple of days.</p>
+<h2> December 6th, 2016 - We're Back</h2>
+<p>The website is now back online after some technical difficulties for the past week and a half. It's good to be back. Apologies for any inconveniences while we were gone. </p>
+
+<h2> November 24th, 2016 - Happy Thanksgiving!</h2>
+<img src="/DivC/images/news/thank.gif" alt="thank" style="width:300px;overflow:hidden;margin:0 auto;display:block">
+
+<h2> November 18th, 2016 - Sylvania</h2>
+<p>Hey guys. So Sylvania is coming up real soon. In less than a month our season starts and you guys probably want to start studying if you haven't already. Use the following weeks to contact your event partners and study with them, and use your trial tests to study as well.</p>
+
+<h2> November 3rd, 2016 - No Broken Streak ;_;</h2>
+<p class="center">In true Cleveland style.</p>
+
+<h2> October 25th, 2016 - Go Indians!</h2>
+<p class="center">Go Tribe!</p>
+
+<h2> September 27th, 2016 - Trial Test sign ups</h2>
+<p>A sign up sheet for next week's trial tests will be up on coach Geiger's door tomorrow morning. Make sure to sign up if you want to compete in those events.</p> 
+<h2> September 22nd, 2016 - Third Meeting, Trial Test Information</h2>
+
+<p>The trial test schedule is out and can be accessed <a href="/DivC/calendar/">here</a>.  The trial tests begin the first week of October, and they're on Tuesdays and Thursdays. </p>
+<p> If you have a conflict where two events of yours are scheduled for the same day, let the captains know and they will find a time for you to make up one of them. However, lab events CANNOT be made up, so please check the dates for those and plan ahead - these events include Chem Lab, Forensics, Material Science, and Experimental Design.</p>
+<p>In other news, the Div B team has started their meetings/practices, and many of the coaches there are willing to coach high school students as well. Their meetings are on Thursday at 7pm at the middle school,  although it appears there may be some schedule changes with the new head coach over there - let us know if you are interested in attending and we'll keep you posted.</p>
+<p>Keep on studying for the trial tests, and keep on selling your chocolates.</p>
+
+
+<h2> September 15th, 2016 - Second Meeting</h2>
+
+<p><img src="/DivC/downloads/Chocolate.jpg" alt="Choc" class = "newsImage">
+The chocolate sales have officially begun! If you haven't paid the $72 to get a box of chocolate, try to get a check to coach Geiger as quickly as you can with your name in the memo (also, team dues are $60 if you want to get both checks out of the way at once). </p>
+<p>After selling your first box, you can buy more to take off from your dues or overnight tournament payments, just make sure to let the coaches know. Since most clubs haven't started selling their chocolate yet, now is a great time to get rid of a lot of your chocolate. You should be selling them at $1.50 each, or 2 for $3. Aggressively target everyone and force your chocolate bars onto them (just kidding, don't do anything dumb). Good luck! </p>
+<p>Hard copies of rulebooks are available in coach Geiger's room. Pick up a copy (or print one out yourself) to start studying for trial tests. The trial tests for all study events start early October. All trial tests will be tests ONLY (no half-mechanicals or anything) with the exception of the lab-based chem events (chem lab, forensics). Trial tests will be Tuesdays and Thursdays after school, and we'll update you with the schedule as we get near October.</p> 
+<p>For anyone wanting to do the WIDI (write it do it) trial test, you need to make sure you have a partner that is willing to take the trial test with you. When the trial test comes, you need to make sure that both you and your partner can stay for the entire duration of the test. The partner that you choose will be your partner for the REST OF THE SEASON so make sure you partner up with someone you don't hate. For anyone who wants to borrow a textbook to study for the Dynamic Planet trial test contact either coach Geiger or Michael Zhan.</p>
+<p>Also, check out the official science olympiad website by clicking the soinc tab on the right. A lot of useful information can be found there.</p>
+
+
+<h2> September 8th, 2016 - First Meeting</h2>
+
+<p>Hi all! Welcome to the 2016-17 SO season! To anyone who wasn't able to attend the first meeting here's a recap of today's meeting.</p>
+<p>Get your <a href="/DivC/downloads/PermissionSlip16-17.pdf">permission slips</a> signed and turned in as soon as possible.</p>
+<p>Team dues are $60, and the chocolate fees are $72. Both of these can be put in one check for $132 made out to Solon Board of Education, with your name in the memo. Also try to get this in as soon as possible.</p> 
+<p>If you have not already, email your name, student ID, and phone number to the captains (solonscienceolympiad@gmail.com). </p>
+<p>As for the near future, there is a parent meeting next Tuesday (9-13-16) at 7:00 pm in the lecture hall, the chocolate sales start next week, and trial tests will start early October.</p>
+
+
+<h2> September 5th, 2016 - Solon Invitational and Permission Slip</h2>
+
+<p>The registration for the 2017 Solon Invitational is up and running. To register your team(s), click on the "Invitational" section on the sidebar, or <a href="/DivC/invitational/2017.php">here</a>.</p>
+<p>For all prospective teammates, the 2016-17 premission slip is available <a href="/DivC/downloads/PermissionSlip16-17.pdf">here</a>.</p>
+
+<h2> September 1st, 2016 - Schedule</h2>
+
+<p>Hi guys, Aman here. The *tentative* 2016-2017 schedule has been posted. Check it out if you want.</p>
+
+<h2> August 28th, 2016 - New Season, New Management</h2>
+
+<p>Hi All! Our 2016-2017 season is about to start and we are working to get everything on this site up
+	to date - information for the 2017 Solon Invitational on February 4th will be posted soon! Also expect
+	some new pictures soon (finally).</p>
+	
+<p>In the meanwhile, I would like to welcome Aman as our new Technology Manager! Yay exclamation marks! He will be in charge of these updates from here on; expect to see great things in the team news this season.</p>
+	
+<p>We're off to a great start!</p>
+
+
+<br>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

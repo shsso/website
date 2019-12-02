@@ -1,0 +1,61 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2014_WrightState.php">prev</a>
+</th><th id = "rMCenter">2014 Mentor Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2014_Regionals.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='48%' valign='top'>
+Solon Team 42, finishing 4th overall with a score of 175<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Dynamic Planet: Nick & Rohin</span><br>
+<span id='b1' class='no-spacing small'>Experimental Design: Katrina & Paul & Rohin</span><br>
+<span id='b2' class='no-spacing small'>Technical Problem Solving: Jack & Jessica</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Rocks and Minerals: Josh & Rohin</span><br>
+<span id='b1' class='no-spacing small'>Scrambler: Alan & David</span><br>
+<span id='b2' class='no-spacing small'>Water Quality: Crystal & Josh</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Nick & Stephen</span><br>
+<span id='b1' class='no-spacing small'>Chemistry Lab: Katrina & Rahul</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Designer Genes: Crystal & Stephen</span><br>
+<span id='b1' class='no-spacing small'>Materials Science: Lily & Rahul</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Eliot & Josh</span><br>
+<span id='b1' class='no-spacing small'>Compound Machines: David & Jessica</span><br>
+<span id='b2' class='no-spacing small'>Disease Detectives: Crystal & Nick</span><br>
+<span id='b3' class='no-spacing small'>Entomology: Paul & Rahul</span><br>
+<span id='b4' class='no-spacing small'>Forensics: Dorothy & Katrina</span><br>
+<br><b class='no-spacing small'>8th Place</b><br><span id='b0' class='no-spacing small'>Elastic Launched Glider: Dorothy & Lily</span><br>
+<br></font></td><td width='4%' valign='top'></td>
+<td width='48%' valign='top'>
+Solon Team 43, finishing 1st overall with a score of 124<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Boomilever: Amy & Kevin</span><br>
+<span id='b1' class='no-spacing small'>Chemistry Lab: Hyunwook & Jonathan</span><br>
+<span id='b2' class='no-spacing small'>GeoLogic Mapping: Alan & Lois</span><br>
+<span id='b3' class='no-spacing small'>Water Quality: Amy & Emily</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Bungee Drop: Alan & Kanithra</span><br>
+<span id='b1' class='no-spacing small'>Circuit Lab: Tyler & Zach</span><br>
+<span id='b2' class='no-spacing small'>Entomology: Amy & Emily</span><br>
+<span id='b3' class='no-spacing small'>Experimental Design: Katie & Sara & Zach</span><br>
+<span id='b4' class='no-spacing small'>Materials Science: Jonathan & Zach</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Hyunwook & Sara</span><br>
+<span id='b1' class='no-spacing small'>Designer Genes: Jonathan & Kevin</span><br>
+<span id='b2' class='no-spacing small'>Mag Lev: Tyler & Zach</span><br>
+<span id='b3' class='no-spacing small'>Rocks and Minerals: Jonathan & Kanithra</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Achuth & Lois</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Write It Do It: Achuth & Lois</span><br>
+<br><b class='no-spacing small'>7th Place</b><br><span id='b0' class='no-spacing small'>Mission Possible: Alan & Tyler</span><br>
+<span id='b1' class='no-spacing small'>Technical Problem Solving: Alan & John</span><br>
+<br><b class='no-spacing small'>8th Place</b><br><span id='b0' class='no-spacing small'>Disease Detectives: Amogh & Katie</span><br>
+<br></font></td></tr></table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

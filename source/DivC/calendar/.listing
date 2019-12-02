@@ -1,0 +1,14 @@
+-rwxr-x---   1 1674086  15000       41576 Sep  4  2016 CHANGELOG.txt
+-rwxr-x---   1 1674086  15000        4590 Sep  4  2016 CONTRIBUTING.txt
+-rwxr-x---   1 1674086  15000        1053 Sep  4  2016 LICENSE.txt
+drwxr-x---   4 1674086  15000        4096 Sep 20  2016 demos
+-rwxr-x---   1 1674086  15000       31035 Oct 17  2017 fullcalendar.css
+-rwxr-x---   1 1674086  15000      377106 Sep  4  2016 fullcalendar.js
+-rwxr-x---   1 1674086  15000       15186 Sep  4  2016 fullcalendar.min.css
+-rwxr-x---   1 1674086  15000      124143 Sep  4  2016 fullcalendar.min.js
+-rwxr-x---   1 1674086  15000        5545 Sep  4  2016 fullcalendar.print.css
+-rwxr-x---   1 1674086  15000        5751 Sep  4  2016 gcal.js
+-rwxr-x---   1 1674086  15000        1514 Oct 17  2017 index.php
+drwxr-x---   3 1674086  15000        4096 Sep 20  2016 lib
+drwxr-x---   2 1674086  15000        8192 Sep 20  2016 locale
+-rwxr-x---   1 1674086  15000      143954 Sep  4  2016 locale-all.js

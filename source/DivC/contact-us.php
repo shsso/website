@@ -1,0 +1,52 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+?>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+	
+<h1>Contact Info</h1>
+
+<hr>
+
+<h2>Coaches</h2>
+	
+	<p class="center">
+		
+		<a target="_top" href="mailto:shsso.coaches@gmail.com?Subject=Science%20Olympiad">shsso.coaches@gmail.com</a>
+		<br><br>
+
+		Cherese Fiorina<br>
+		Head Coach<br>
+		<a target="_top" href="mailto:cheresefiorina@gmail.com?Subject=Science%20Olympiad">cheresefiorina@gmail.com</a><br>
+		(216) 470-1650
+		<br><br>
+
+
+		Nicholas Maurer<br>
+		Assistant Coach<br>
+		<a target="_top" href="mailto:nmaurer@live.com?Subject=Science%20Olympiad">nmaurer@live.com</a><br>
+		(216) 956-4330
+		<br><br>
+	</p>
+
+
+<h2>Captains</h2>
+	
+	<p class="center">
+	
+		<a href="mailto:solonscienceolympiad@gmail.com" target="_top">solonscienceolympiad@gmail.com</a><br>
+		<br>
+
+		Kush Addepalli & Derek Li<br>
+		Co-Captains<br>
+		<br>
+		Rebecca Liebson & Yash Kankariya <br>
+		Junior Captains<br>
+	</p>
+
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

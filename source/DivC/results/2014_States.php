@@ -1,0 +1,50 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2014_WestLiberty-Salem.php">prev</a>
+</th><th id = "rMCenter">2014 States @ OSU</a>
+</th><th id = "rMRight"><a href="/DivC/results/2014_Nationals.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='100%' valign='top'>
+Solon Team 17, finishing 1st overall with a score of 73<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Achuth & Nick</span><br>
+<span id='b1' class='no-spacing small'>Boomilever: Katrina & Kevin</span><br>
+<span id='b2' class='no-spacing small'>Forensics: Dorothy & Katrina</span><br>
+<span id='b3' class='no-spacing small'>GeoLogic Mapping: Alan & Lois</span><br>
+<span id='b4' class='no-spacing small'>Mag Lev: Tyler & Zach</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Chemistry Lab: Jonathan & Rahul</span><br>
+<span id='b1' class='no-spacing small'>Circuit Lab: Tyler & Zach</span><br>
+<span id='b2' class='no-spacing small'>Compound Machines: Alan & Kevin</span><br>
+<span id='b3' class='no-spacing small'>Entomology: Emily & Lois</span><br>
+<span id='b4' class='no-spacing small'>Technical Problem Solving: Rahul & Zach</span><br>
+<span id='b4' class='no-spacing small'>Hydrogeology (Trial Event): Lily & Jessica</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Bungee Drop: Achuth & Alan</span><br>
+<span id='b1' class='no-spacing small'>Designer Genes: Crystal & Nick</span><br>
+<span id='b2' class='no-spacing small'>Dynamic Planet: Josh & Rohin</span><br>
+<span id='b3' class='no-spacing small'>Experimental Design: Dorothy & Jonathan & Katrina</span><br>
+<span id='b4' class='no-spacing small'>Rocks and Minerals: Josh & Rohin</span><br>
+<span id='b5' class='no-spacing small'>Scrambler: Kevin & Tyler</span><br>
+<span id='b6' class='no-spacing small'>Water Quality: Crystal & Emily</span><br>
+<span id='b6' class='no-spacing small'>Mars Rover (Trial Event): Jessica & Hyunwook/Lily & David</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Materials Science: Jonathan & Zach</span><br>
+<span id='b1' class='no-spacing small'>Mission Possible: Alan & Tyler</span><br>
+<span id='b1' class='no-spacing small'>Fossils (Trial Event): Eliot & Hyunwook</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Disease Detectives: Crystal & Nick</span><br>
+<span id='b1' class='no-spacing small'>Write It Do It: Achuth & Lois</span><br>
+<br><b class='no-spacing small'>6th Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Alan & Josh</span><br>
+<br><b class='no-spacing small'>13th Place</b><br><span id='b0' class='no-spacing small'>Elastic Launch Glider: Dorothy & Emily</span><br>
+<br></font></td></tr></table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

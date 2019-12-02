@@ -1,0 +1,7 @@
+# Begin password protection #
+AuthName "SSO Secure Site"
+Require valid-user
+AuthUserFile "/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/secure/.htpasswd"
+AuthType basic
+# End password protection #
+

@@ -1,0 +1,62 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+?>
+
+<script type="text/javascript">
+window.onload = function test(){
+	var elems = document.getElementsByClassName("misclinks");
+    elems[0].style.color = "white";
+};
+</script>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+	
+<h1>Credits</h1>
+<hr>
+
+<h2>Website Design (Div C)</h2>
+<p class="center">
+Asheq Ahmed (original html frame <a href="/NotCurrentlyInUse/DivCOld/picturesFrame.html">website</a>) <br>
+Stephanie Sang (navigation buttons, sprites, and <a href="/NotCurrentlyInUse/DivCSep2015Save/index.html">banner images/backgrounds</a>)<br>
+Michael Zhan (width-adjustable layout, tables, miscellaneous optimizations/additions)<br>
+Aman Jain (appearance overhaul)<br>
+</p>
+<h2>Website Design (Div B)</h2>
+<p class="center">
+Asheq Ahmed (original html frame <a href="/NotCurrentlyInUse/DivBOld/frameset.html">website</a>) <br>
+Zach Bogorad (old version, no longer accesible)<br>
+Kevin Tang aka Traitor (current design, meh)<br>
+</p>
+<h2>Website Admins (Management/Content Additions)</h2>
+<p class="center">
+Asheq Ahmed (2009-2010) <br>
+Stephanie Sang (2009-2011)<br>
+Alan Jafee (2011-2014)<br>
+Zach Bogorad (2014-2015)<br>
+Michael Zhan (2015-2016)<br>
+Aman Jain (2016-2017)<br>
+Justin Prindle (2017-2018)<br>
+Michael Zhu (2017-2018)<br>
+David Tan (2018-2019)<br>
+Derek Li (2018-2019)<br>
+Kevin Zhou (2019-present)<br>
+Michael Kong (2019-present)<br>
+</p>
+<h2>Other</h2>
+<p class="center">
+Steve Zhou for ???
+</p>
+<br><br><br><br><br><br><br><br>
+<p>
+NOTE: These credits are as accurate within the knowlege of the person who wrote them. If you know of a required correction or additon to these credits, please email the current website admin.</p>
+<br>
+
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

@@ -1,0 +1,121 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2011_Northmont.php">prev</a>
+</th><th id = "rMCenter">2011 Kenston Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2011_Clearview.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table width="639px" class="results-text">
+<tr><td width="48%" valign="top">
+Solon Team 5, finishing 1st overall<br>with a score of ___<br><br>
+
+<font size="2" style="arial">
+
+<b>1st Place</b><br>
+Anatomy: Shashank & Aditya<br>
+Astronomy: Eugene & Oliver<br>
+Dynamic Planet: Ayush & Lisa<br>
+Ecology: Oliver & Stephanie Sang<br>
+Fossils: Stephanie Sang & Ben<br>
+Helicopters: John & Lillian<br>
+Optics: Rohan & John<br>
+Protein Modeling: John, Ayush & Thomas<br>
+Sounds of Music: Lillian & Eugene<br>
+Wind Power: Oliver & Eugene<br>
+
+<br>
+<b>2nd Place</b><br>
+Chemistry Lab: Eugene & Lisa<br>
+Experimental Design: Lillian, Ben & Michael Luo<br>
+Ornithology: Stephanie Sang & Ben<br>
+Remote Sensing: Rohan & Ayush<br>
+Towers: Shashank & Thomas<br>
+Sumo Bots: Michael Luo & Shashank<br>
+
+<br>
+<b>3rd Place</b><br>
+Disease Detectives: Rohan & Aditya<br>
+Microbe Mission: Lisa & Aditya<br>
+Technical Problem Solving: John & Eugene<br>
+
+<br>
+<b>4th Place</b><br>
+
+
+<br>
+<b>5th Place</b><br>
+
+
+<br>
+<b>6th Place</b><br>
+
+
+<br>
+<br></font>
+</td>
+
+<td width="4%"></td>
+
+<td width=48% valign="top">
+Solon Team 6, finishing 2nd overall<br>with a score of ___<br><br>
+
+<font size="2">
+
+<b>1st Place</b><br>
+Chemistry Lab: Nick & Danny<br>
+Disease Detectives: Danny & Victoria<br>
+Experimental Design: Tiffany, Roger & Feibi<br>
+Forensics: Stephen<br>
+Microbe Mission: Nick & Roger<br>
+Mission Possible: Andrew, Ojas & Nick<br>
+Sumo Bots: Andrew & Ojas<br>
+
+<br>
+<b>2nd Place</b><br>
+Anatomy: Sonia & Victoria<br>
+Astronomy: Michael Li, Stephanie Zhu<br>
+Ecology: Danny & Tiffany<br>
+Optics: Michael Li & Chanukya<br>
+Protein Modeling: Yuxi, Sonia & Roger<br>
+Sounds of Music: Michael Li & Yuxi<br>
+Wind Power: Stephen & Feibi<br>
+
+<br>
+<b>3rd Place</b><br>
+Fossils: Yuxi & Ojas<br>
+Ornithology: Yuxi & Sonia<br>
+Remote Sensing: Stephen & Nick<br>
+
+<br>
+<b>4th Place</b><br>
+Technical Problem Solving: Chanukya & Michael Li<br>
+
+<br>
+<b>5th Place</b><br>
+Write It Do It: Stephen & Stephanie Zhu<br>
+
+<br>
+<b>6th Place</b><br>
+Dynamic Planet: Sonia & Tony<br>
+Helicopters: Victoria & Stephanie Zhu<br>
+
+
+<br>
+
+<br>
+</font></td>
+<tr>
+</table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

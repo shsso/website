@@ -1,0 +1,72 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+<h1 align="center">2009-2010 News</h1>
+<hr>
+
+<table width="639" border="0" style="margin:0 auto;">
+<tr>
+    <td height="58" align="left" valign="top">6/26/10</td>
+    <td align="left" valign="top">It's that time again - hooray for Science Olympiad car washes! Please attend (and invite all of your friends - that includes Facebook friends) our first car wash on July 11th, 11 am - 3 pm.  As usual, there will be festivities later at Squaw Rock at the Metroparks from 6 to 11 pm.  Please bring a few dollars to subsidize the cost for food (specific amount to be determined later) as well as your grade's assigned category of even more food and drinks.  Hope to see you there!</td>
+  </tr>
+<tr>
+    <td height="58" align="left" valign="top">4/24/10</td>
+    <td align="left" valign="top">Solon placed third in the nation at the National Tournament at the University of Illinois this past Saturday. Congratulations to Centerville for defending their title, as well as to the Solon Division B team, which won for the third straight year! Thanks to everyone for a fun and successful season.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">4/18/10</td>
+    <td align="left" valign="top">STATE CHAMPIONS!!  Solon's 15 top competitors and 5 alternates took a resounding first place at the Ohio Science Olympiad State Tournament, tying Centerville's long-standing record of a mere 78 points at the competition. Additional congratulations to the Solon Middle School, who finished first in their own division. We look forward to representing Ohio along with Centerville at the National Tournament at the University of Illinois, Urbana Champaign.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">4/1/10</td>
+    <td align="left" valign="top">States is quickly approaching. Study.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">3/9/10</td>
+    <td align="left" valign="top">The two teams took 2nd and 3rd at the West Liberty Invitational tournament, with Centerville edging out a close 4 point victory. Congratulations to everyone, and thanks for a great season. The States schedule will be emailed (?) to you on Thursday.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top"><p>2/28/10</p></td>
+    <td align="left" valign="top">Solon took first place at the CWRU Regional Tournament yesterday, despite the blizzard. One Solon team will be advancing to the State tournament in April.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">2/8/10</td>
+    <td align="left" valign="top">The tests from Solon Invitational will be available beginning tomorrow, February 9th. You will need to click the link on the left and access the secure database.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">2/07/10</td>
+    <td align="left" valign="top">Solon High School hosted its 2010 Invitational yesterday. Mentor won the tournament with 117 points, beating out the Liberal Arts and Sciences Academy, who flew out all the way from Texas, by 10 points. Thanks to all those who competed and helped run the invitational. </td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top"><p>1/23/10</p></td>
+    <td align="left" valign="top"><p>Solon edged out a tough victory over  Centerville teams placing second and third today at the Pickerington tournament in Columbus. Additionally, <span class="red">online registration will be available starting Monday night, January 25th. Click the button on the left side of this page to sign up for time slots online. </span>If the button doesn't appear, refresh the page. If you are still having problems, email <a href="mailto:maxko87@gmail.com" target="_self">maxko87@gmail.com</a> with any questions.</p></td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">1/17/10</td>
+    <td align="left" valign="top">Yesterday, we competed at Kenston, our second tournament for the season. The two teams took 1st and 2nd in the competition. This week shall be busy for everyone (who cares about Midterms), but we look forward to compete against both Centerville and Mentor this upcoming weekend.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top">1/9/10</td>
+    <td align="left" valign="top">Today, we competed at Northmont, our first tournament for the 09-10 season. The two teams took 1st and 3rd places in the competition. The top team edged out a close 4 point victory over reigning national champion Centerville with a final score of 82 points. The team took 10 of the 23 gold medals at the competition. With this great start to the season, we look forward to competing at Kenston this coming weekend.</td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top"><p>12/6/09</p></td>
+    <td align="left" valign="top"><p>The Division B site is now running. Check www.solonscienceolympiad.org and click Division B to visit. </p></td>
+  </tr>
+  <tr>
+    <td width="77" height="58" align="left" valign="top">12/2/09</td>
+    <td width="571" align="left" valign="top"><span class="NormalText">The &quot;About Us&quot; page was updated.</span></td>
+  </tr>
+  <tr>
+    <td height="58" align="left" valign="top"><span class="NormalText">12/1/09</span></td>
+    <td align="left" valign="top"><span class="NormalText">The site is up and running! It is obviously still in development, so keep checking back for changes in the near future.</span></td>
+  </tr>
+</table>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

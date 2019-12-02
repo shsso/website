@@ -1,0 +1,114 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2011_Mentor.php">prev</a>
+</th><th id = "rMCenter">2011 Regionals @ CWRU</a>
+</th><th id = "rMRight"><a href="/DivC/results/2011_WestLiberty-Salem.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table width="639px" class="results-text">
+	<tr><td width="48%" valign="top">
+Solon Team ___, finishing ___ overall<br>with a score of ___<br><br>
+
+<font size="2" style="arial">
+
+<b>1st Place</b><br>
+Dynamic: Stephanie & Stephanie<br>
+Forensics: Stephen & Stephanie Z<br>
+Fossils: Andrew & Stephanie S<br>
+Sounds: Stephen & Eugene<br>
+Sumo: Andrew<br>
+
+
+<br>
+<b>2nd Place</b><br>
+Mission: Andrew<br>
+Ornithology: Ben & Stephanie S<br>
+Towers: Thomas Yi<br>
+Wind: Stephen & Feibi<br>
+
+<br>
+<b>3rd Place</b><br>
+Chem Lab: Stephen & Eugene<br>
+Remote: Rohan & Ayush<br>
+
+<br>
+<b>4th Place</b><br>
+Astronomy: Eugene & Stephanie Z<br>
+
+<br>
+<b>5th Place</b><br>
+
+
+<br>
+<b>6th Place</b><br>
+
+
+<br>
+<br></font>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+Solon Team ___, finishing ___ overall<br>with a score of ___<br><br>
+
+<font size="2">
+
+<b>1st Place</b><br>
+Anatomy: Victoria & Sonia<br>
+Astronomy: Roger & Rebecca<br>
+Chem Lab: Nick & Danny<br>
+Ecology: Tiffany & Oliver<br>
+Microbe: Lisa & Roger<br>
+Towers: Lillian<br>
+
+<br>
+
+<b>2nd Place</b><br>
+Forensics: Lillian & Lisa<br>
+Optics: Chanu & Nick<br>
+Protein: Tiffany, Sonia, Ojas<br>
+Remote: Danny & Oliver<br>
+Sumo: Michael Luo<br>
+TPS: Oliver & Nick<br>
+
+
+<br>
+<b>3rd Place</b><br>
+Disease: Jacob & Danny<br>
+XPD: Lillian, Danny, Tiffany<br>
+Heli: Victoria<br>
+Wind: Lisa & Oliver<br>
+
+<br>
+<b>4th Place</b><br>
+
+
+<br>
+<b>5th Place</b><br>
+
+
+
+<br>
+<b>6th Place</b><br>
+
+
+
+<br>
+
+<br>
+</font></td>
+<tr>
+</table></div>
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

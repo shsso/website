@@ -1,0 +1,82 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+	
+<h1>All Resources</h1>
+<hr>
+
+<ul id="misc-links">
+        <li><a href="https://scioly.org/">Scioly.org</a></li>
+	<li><a href="http://soinc.org">SOInc.org</a></li>
+	<li><a href="https://goo.gl/xARH0C">Test Database</a></li>
+	<li><a href="https://sites.google.com/site/solonhsscienceolympiad/">Intranet (No longer maintained)</a></li>
+	<li><a href="https://goo.gl/forms/lh0iyhnxOljsO2De2">Rule Clarification and FAQ Form</a></li>
+</ul>
+
+
+<script>
+  $(function(){
+    customTag("doc", null);
+    customTag("date-docs", dateDocs);
+    if (!$("div#docslist li").length)
+      $("div#docslist").before("<p>No documents have been added yet, be sure to check back soon!</p>");
+  }
+);
+
+function customTag(tagName, fn){
+  document.createElement(tagName);
+  if (fn != null) {
+    var tagInstances = document.getElementsByTagName(tagName);
+    $(tagName).after(function(index) {
+      return fn(tagInstances[index]);
+    });
+    $(tagName).remove();
+  }
+}
+
+function dateDocs(element) {
+  var date = element.attributes.date.value;
+  var newHTML = "<li>" + date + "<ul>";
+  var items = element.querySelectorAll("doc");
+  for(var i = 0; i < items.length; i++) {
+    var doc = items[i];
+    var text = doc.attributes.text.value;
+    var link = doc.attributes.link.value;
+    newHTML += "<li><a target=\"_blank\" href=\"" + link + "\">" + text + "</a></li>";
+  }
+  newHTML += "</ul></li>";
+  return newHTML;
+}
+
+</script>
+
+<div id="docslist">
+   <ul>
+
+<hr>
+<h3>Check out our Social Media!</h3>
+<hr>
+        <li><a href=https://www.instagram.com/solonscioly/>Come follow our Instagram page!</a></li>
+        <li><a href=https://www.facebook.com/shsscienceolympiad/>Go like our Facebook page!</a></li>
+
+<hr>
+
+<h3>Misc. Links</h3>
+<hr>
+
+<ul id="misc-links">
+	<li><a href="/NotCurrentlyInUse/DivCSep2015Save/">Old version of website</a> (actually pretty interesting)</li>
+	<li><a href="/NotCurrentlyInUse/DivCOld/picturesFrame.html">REALLY OLD version of website</a> (it uses html frames!)</li>
+	<li><a href="/DivC/misc/devlog.php">Development Log</a></li>
+	<li><a href="/DivC/misc/experiences.php">Experiences</a></li>
+	<li><a href="/DivC/misc/other-so-websites.php">List of other SO websites</a></li>
+	<li><a href="/DivC/misc/credits.php">Website Credits</a></li>
+        <li><a href=https://www.youtube.com/watch?v=7Oud8U8ZLms>Nationals 1st place Robot Arm</a></li>
+</ul>
+<hr>
+
+<div id="push"></div>
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

@@ -1,0 +1,81 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2012_WestLiberty-Salem.php">prev</a>
+</th><th id = "rMCenter">2012 States @ OSU</a>
+</th><th id = "rMRight"><a href="/DivC/results/2012_Nationals.php">next</a>
+</th></tr></table></div>
+
+
+
+
+<div class="twrap"><table class="results-text">
+<tr><td width="48%" valign="top">
+Solon Team 29, finishing 1st overall with a score of 68<br><br>
+
+<font size="2" style="arial">
+
+<b>1st Place</b><br>
+Anatomy: Aditya & Nick <br>
+Fermi Questions: Chanu & Jack <br>
+Forestry: Crystal & Ben <br>
+Remote Sensing: Chanu & Alan <br>
+Robot Arm: Andrew & Ben <br>
+Tower Building: Kevin & Aditya  <br>
+Write It/Do It: Stephen & Stephanie <br>
+Picture This: Oliver, Ayush, & Michael Li <br>
+
+<br>
+<b>2nd Place</b><br>
+Dynamic Planet: Alan & Stephanie <br>
+Gravity Vehicle: Andrew & Crystal <br>
+Helicopters: John & Andrew <br>
+Microbe Mission: Roger & Lisa <br>
+Protein Modeling: Crystal, John & Kevin <br>
+Sounds of Music: John & Kevin <br>
+Thermodynamics: Jack & Chanu <br>
+
+<br>
+<b>3rd Place</b><br>
+Rocks & Minerals: Yuxi & Stephanie <br>
+
+<br>
+<b>4th Place</b><br>
+Disease Detectives: Aditya & Nick<br>
+Technical Problem Solving: Chanu & Roger<br>
+
+<br>
+<b>5th Place</b><br>
+Astronomy: Roger & Alan <br>
+Chemistry Lab: Lisa & Stephen<br>
+Forensics: Lisa & Stephen<br>
+
+
+<br>
+<b>6th Place</b><br>
+Water Quality: Yuxi & Nick<br>
+Elastic Launch Gliders: Lauren & Thomas <br>
+
+<br>
+<b>8th Place</b><br>
+Experimental Design: Roger, Ben, Yuxi <br>
+Optics: Jack & Stephen <br>
+
+
+<br>
+<br></font>
+</td>
+
+</table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

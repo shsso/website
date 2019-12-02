@@ -1,0 +1,125 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2011_Clearview.php">prev</a>
+</th><th id = "rMCenter">2011 Mentor Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2011_Regionals.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text">
+<tr><td width="48%" valign="top">
+Solon Team 32, finishing ___ overall<br>with a score of ___<br><br>
+
+<font size="2" style="arial">
+
+<b>1st Place</b><br>
+Astronomy: Roger & Michael Li<br>
+Disease: Aditya & Thomas<br>
+Ecology: Danny & Aditya<br>
+Fossils: Henry & Yuxi<br>
+Microbe: Roger & Nick<br>
+Wind: John S & Stephen<br>
+
+<br>
+<b>2nd Place</b><br>
+Anatomy: Nick & Aditya<br>
+Chem Lab: Nick & Sperling <br>
+Dynamic: Henry & Stephanie Z<br>
+Protein: Thomas, Yuxi, Roger<br>
+SOM: Michael Li, Yuxi<br>
+WIDI: Stephen & Stephanie Z<br>
+
+<br>
+<b>3rd Place</b><br>
+Sumo: Michael Luo<br>
+Towers: Roger<br>
+
+<br>
+<b>4th Place</b><br>
+XPD: Michael Luo, Sperling, Elliot<br>
+
+<br>
+<b>5th Place</b><br>
+Mission: Rick<br>
+Ornithology: Lauren & Yuxi<br>
+Remote: Aditya & Nick<br>
+
+<br>
+<b>6th Place</b><br>
+
+
+<br>
+<br></font>
+</td>
+
+<td width="4%"></td>
+
+<td width=48% valign="top">
+Solon Team 33, finishing ___ overall<br>with a score of ___<br><br>
+
+<font size="2">
+
+<b>1st Place</b><br>
+Anatomy: Rohan & Shashank<br>
+Chem Lab: Lisa & Eugene<br>
+Dynamic: Victoria & Tony<br>
+XPD: Lillian, Victoria, & Ben<br>
+Forensics: Shashank & Lillian<br>
+Optics: Eugene & John Z<br>
+SOM: Lillian & Eugene<br>
+Sumo: Andrew<br>
+Towers: Lillian<br>
+
+<br>
+
+<b>2nd Place</b><br>
+Disease: Rohan & Jacob<br>
+Ecology: Ben & Stephanie S<br>
+Microbe: Daniel K & Lisa<br>
+Mission: Andrew<br>
+Mousetrap: Andrew<br>
+TPS: John & Danny<br>
+Wind: Lisa & Feibi<br>
+
+<br>
+<b>3rd Place</b><br>
+Ornithology: Ben & Stephanie<br>
+Remote: Tony & Rohan<br>
+WIDI: Ben & Andrew<br>
+
+
+<br>
+<b>4th Place</b><br>
+Astronomy: John Z & Eugene<br>
+
+
+<br>
+<b>5th Place</b><br>
+Fossils: Ojas & Stephanie S<br>
+Heli: Victoria & John<br>
+
+
+
+<br>
+<b>6th Place</b><br>
+
+
+
+<br>
+
+<br>
+</font></td>
+<tr>
+</table></div>
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

@@ -1,0 +1,56 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2012_Nationals.php">prev</a>
+</th><th id = "rMCenter">2012 Sylvania-Northview Invitational</a>
+</th><th id = "rMRight"><a href="/DivC/results/2013_Northmont.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='48%' valign='top'>
+Solon Team 24, finishing 1st overall with a score of 96<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Sara & Alan</span><br>
+<span id='b1' class='no-spacing small'>Fermi Questions: Alan & Jiayu</span><br>
+<span id='b2' class='no-spacing small'>Materials Science: Jonathan & Lily</span><br>
+<span id='b3' class='no-spacing small'>Remote Sensing: Alan & Jiayu</span><br>
+<span id='b4' class='no-spacing small'>Thermodynamics: Zach & Linus</span><br>
+<span id='b5' class='no-spacing small'>Water Quality: Amy & Nick</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Amy & Aditya</span><br>
+<span id='b1' class='no-spacing small'>Chemistry Lab: Jonathan & Linus</span><br>
+<span id='b2' class='no-spacing small'>Circuit Lab: Zach & Shashank</span><br>
+<span id='b3' class='no-spacing small'>Designer Genes: Jiayu & Aditya</span><br>
+<span id='b4' class='no-spacing small'>Disease Detectives: Nick & Aditya</span><br>
+<span id='b5' class='no-spacing small'>Experimental Design: Sara & Amy & Kanithra</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Boomilever: Sara & Sheng</span><br>
+<span id='b1' class='no-spacing small'>MagLev: Zach & Sheng</span><br>
+<span id='b2' class='no-spacing small'>Rocks and Minerals: Jonathan & Kanithra</span><br>
+<span id='b3' class='no-spacing small'>Write It Do It: Kathleen & Jessica</span><br>
+<br></font></td></td><td width='4%' valign='top'></td>
+<td width='48%' valign='top'>
+Solon Team 23, finishing 2nd overall with a score of 144<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Circuit Lab: Tyler & Chanukya</span><br>
+<span id='b1' class='no-spacing small'>Designer Genes: Dorothy & Hyunwook</span><br>
+<span id='b2' class='no-spacing small'>Experimental Design: Katrina & Katie & Rachel</span><br>
+<span id='b3' class='no-spacing small'>Rocks and Minerals: Hyunwook & Stephanie</span><br>
+<span id='b4' class='no-spacing small'>Technical Problem Solving: Chanukya & Stephanie</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Hyunwook & Eliot</span><br>
+<span id='b1' class='no-spacing small'>Dynamic Planet: Jack & Tony</span><br>
+<span id='b2' class='no-spacing small'>Remote Sensing: Rohan & Tony</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Rohan & Stephen</span><br>
+<span id='b1' class='no-spacing small'>Chemistry Lab: Rohan & Stephanie</span><br>
+<span id='b2' class='no-spacing small'>Materials Science: David & Chanukya</span><br>
+<span id='b3' class='no-spacing small'>Robot Arm: Tyler & David</span><br>
+<br></font></tr></table></div>
+
+
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

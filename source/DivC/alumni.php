@@ -1,0 +1,51 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+
+?>
+<!--include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/navAboutUs.php");-->
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+	
+<h1>Our Honored Alumni</h1>
+<hr>
+	
+<h2 align="center">Class of 2011</h2>
+
+
+<h3>Stephanie Sang</h3>
+<p style="font-size: 90%">Stephanie joined Science Olympiad in the 5th grade, which meant that SO consumed literally half of her life - and perhaps sanity - up until she graduated.  Along with co-captain Eugene Rabinovich, she helped lead her (amazing) team to the National Championship in 2011 in Madison, Wisconsin.  Stephanie believes that while the science and knowledge gained from participating in Science Olympiad definitely shaped her life, it was the friendships formed with the members of her team and the competitors from other schools from which she derived the most fulfillment.  Highlights include placing 2nd in the nation in Picture This and 5th in Fossils, as well as developing a lifelong grudge against birds.  She will continue her studies at Cornell University with a double major in Biology (Ecology &amp; Evolution) and Science of Earth Systems (Geological Sciences).</p>
+
+
+<br><h2 align="center">Class of 2010</h2>
+
+
+<h3>George Zhao</h3>
+<p style="font-size: 90%">George graduated in 2010. He joined Science Olympiad in 7th grade, beginning as an alternate. George's years on the club revolved around the event Bottle Rockets, which he won 4th and 1st places at Nationals in 8th and 12th grade, respectively, both times with fellow classmate Stan Chan. With an undecided course of future studies, although he may not pursue any fields directly related to his Science Olympiad events, George remarks that the experience of self-learning, the chance to share this opportunity of a lifetime with his teammates, and the invaluable friendships developed are all invaluable for a lifetime. George will continue his studies at Columbia University.</p>
+
+
+
+<h3>Max Kolysh</h3>
+<p style="font-size: 90%">Ever since he joined Solon Science Olympiad in 8th grade, Max has been a contributing member of teams that won two State championships and placed 3rd and 2nd at the National tournament. His experiences in the club ranged from building trebuchets to reading topographic maps, from designing Rube Goldberg devices to playing science pictionary. More importantly, Max appreciates the teamwork, camaraderie, and genuine curiosity about the world that the club has instilled in him. Science Olympiad has allowed him to be a competitor, a thinker, and a leader. In the 2010 season, he helped lead the team to a near undefeated season through States and a bronze trophy at Nationals, where he placed in three of his four events. Max will continue his S.O.-inspired education by studying engineering alongside the MIT Class of 2014.</p>
+<h3>Stan Chan</h3>
+<p style="font-size: 90%">Stan started Science Olympiad in the 7th grade, and since then, Science Olympiad has been more of a family than a team to him.  It fits, then, that Science Olympiad has greatly affected his life; by placing 1st in the event "Egg-o-naut" at the National Tournament at the University of Ilinois at Urbana-Champaign, Stan won a full-tuition scholarship to the university.  Not surprisingly, Stan's favorite events were aeronautical in nature - Bottle Rockets, Egg-o-naut, Gliders, and Helicopter.  Stan will continue his studies in Aerospace Engineering at the University of Illinois at Urbana-Champaign.</p>
+
+
+
+<br><h2 align="center">Class of 2008</h2>
+
+<h3>Jeremy Nickol</h3>
+<p style="font-size: 90%">Jeremy started Science Olympiad in 8th grade, where he won 3rd place in Reach for the Stars nationally, and helped the team to its then-best finish of 5th place in the nation in the 2004 tournament. In Division C, Reach for the Stars transformed into Astronomy, and he also picked up most of the chemistry and physics events, as well as his personal favorite Fermi Questions. In 12th grade, as a part of the 2008 team that captured 2nd in the nation, Jeremy won four medals, with 4th in Astronomy, 5th in Circuit Lab, 6th in Fermi Questions, and 5th in Physics Lab. Science Olympiad transformed his life, introducing him to many of his lifelong friends, as well as creating and nurturing a love for technology that survives to this day. Jeremy's passion led him to obtain a BS in Mechanical Engineering from Rose-Hulman Institute of Technology in 2011, and then to continue at The Ohio State University to pursue a MS in the same field.</p>
+
+
+
+<h3>Jun Huang</h3>
+<p style="font-size: 90%">Jun's passion for the natural sciences began at a very young age and led him to join Science Olympiad in 7th grade.  A member of four national-ranking teams, he led Solon Middle School to a 4th place overall finish in 2005 and won gold in bottle rockets.  With his classman Matt Ferraro, Jun led Solon High School to a 2nd place finish at the nation's capitol in 2008.  In his six years as a member of the Solon team, Jun built lasting friendships, learned the value of teamwork, and proudly saw to fruition all that personal creativity and hard work can achieve.  Today he pursues a B.S. in Biomedical Engineering, in which traditional engineering concepts illuminate the biology of the body in deeper fascinating ways.</p>
+
+<br><h2 align="center">Submissions</h2>
+<p>If you are an alumni of the Solon Science Olympiad program and would like to see your name here, or if you would like to edit your entry, please email your bio to the current webpage <s>slave</s> manager: <a href="mailto:kevinzhou20@solonschools.net?Subject=Science%20Olympiad%20Alumni" target="_top">kevinzhou20@solonschools.net</a></p>
+
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

@@ -1,0 +1,56 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+?>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+
+<div class="twrap"><table class="resultsMenu"><tr>
+<th id = "rMLeft"><a href="/DivC/results/2014_Mentor.php">prev</a>
+</th><th id = "rMCenter">2014 Regionals @ CWRU</a>
+</th><th id = "rMRight"><a href="/DivC/results/2014_WestLiberty-Salem.php">next</a>
+</th></tr></table></div>
+
+<div class="twrap"><table class="results-text"><tr>
+<td width='48%' valign='top'>
+Solon Team 2, finishing 1st overall with a score of 71<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Alark & Nick</span><br>
+<span id='b1' class='no-spacing small'>Boomilever: Alan & Kevin</span><br>
+<span id='b2' class='no-spacing small'>Chemistry Lab: Jonathan & Rahul</span><br>
+<span id='b3' class='no-spacing small'>Disease Detectives: Amogh & Nick</span><br>
+<span id='b4' class='no-spacing small'>GeoLogic Mapping: Alan & Paul</span><br>
+<span id='b5' class='no-spacing small'>Mag Lev: Alan & Tyler</span><br>
+<span id='b6' class='no-spacing small'>Rocks and Minerals: Dorothy & Josh</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>Bungee Drop: Alan & Amogh</span><br>
+<span id='b1' class='no-spacing small'>Experimental Design: Amogh & Jonathan & Katrina</span><br>
+<span id='b2' class='no-spacing small'>Forensics: Dorothy & Katrina</span><br>
+<span id='b3' class='no-spacing small'>Mission Possible: Alan & Alan</span><br>
+<span id='b4' class='no-spacing small'>Scrambler: Paul & Tyler</span><br>
+<span id='b5' class='no-spacing small'>Write It Do It: Dorothy & Emily</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Circuit Lab: John & Tyler</span><br>
+<span id='b1' class='no-spacing small'>Compound Machines: John & Kevin</span><br>
+<span id='b2' class='no-spacing small'>Designer Genes: Alark & Kevin</span><br>
+<span id='b3' class='no-spacing small'>Elastic Launched Glider: Emily & Paul</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Astronomy: Josh & Rahul</span><br>
+<span id='b1' class='no-spacing small'>Materials Science: Jonathan & Rahul</span><br>
+<span id='b2' class='no-spacing small'>Water Quality: Emily & Nick</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Entomology: Emily & Katrina</span><br>
+<br></font></td><td width='4%' valign='top'></td>
+<td width='48%' valign='top'>
+Solon Team 3, finishing 7th overall with a score of 195<br><br><font size='2' style='arial'>
+<b class='no-spacing small'>1st Place</b><br><span id='b0' class='no-spacing small'>Compound Machines: David & Zach</span><br>
+<span id='b1' class='no-spacing small'>Scrambler: David & Igor</span><br>
+<br><b class='no-spacing small'>2nd Place</b><br><span id='b0' class='no-spacing small'>GeoLogic Mapping: Austin & Lois</span><br>
+<br><b class='no-spacing small'>3rd Place</b><br><span id='b0' class='no-spacing small'>Anatomy & Physiology: Achuth & Lois</span><br>
+<span id='b1' class='no-spacing small'>Dynamic Planet: Achuth & Rohin</span><br>
+<span id='b2' class='no-spacing small'>Water Quality: Amanda & Crystal</span><br>
+<br><b class='no-spacing small'>4th Place</b><br><span id='b0' class='no-spacing small'>Elastic Launched Glider: David & Rohin</span><br>
+<span id='b1' class='no-spacing small'>Entomology: Amanda & Lois</span><br>
+<br><b class='no-spacing small'>5th Place</b><br><span id='b0' class='no-spacing small'>Materials Science: Lily & Zach</span><br>
+<br></font></td></tr></table></div>
+
+</div>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>

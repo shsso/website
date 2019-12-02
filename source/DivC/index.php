@@ -1,0 +1,38 @@
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
+//include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/navDefault.php");
+?>
+
+<!-----Makes the images nice and centered----->
+<style>
+img 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<h1 align="center">Latest Team News and Events</h1>
+<hr>
+
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+<h2> Come Support the Team at Rusty Bucket! </h2> 
+<center>
+<iframe src="https://drive.google.com/file/d/0B6Jrut9kk40JLS1tZkk5VnpGLTh5U290NFg4dThYRnpzal80/preview" width="864" height="648"></iframe>
+</center>
+<h2> October 31st, 2019 - Halloween! </h2>
+<p>
+Spooky szn is drawing to a close, and our first invitational is almost upon us! Here's a deep dab (courtesy of Mu) to inspire you to study for your events:
+</p>
+<img src="/DivC/images/news/Supereffective.jpg" title="Pika Pika!" style="width:65%">
+
+<h2> September 26th, 2019 - Mamma Mia (Here We Go Again) </h2>
+<p>
+Hey, it's ya boi Kevin. I'm starting to get the hang of editing this website, which is nice. More importantly, this season is already shaping up to be one of our strongest yet. I see everyone already hard at work preparing for their events, and I'm confident that we're going to have an amazing year. Keep it up!
+</p>
+
+<?php
+include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
+?>
