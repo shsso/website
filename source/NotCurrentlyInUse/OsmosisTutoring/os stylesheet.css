@@ -1,0 +1,111 @@
+<style type='text/css'>
+
+<link rel="shortcut icon" href="favicon.ico">
+
+.mask{
+   position: relative;
+   overflow: hidden;
+   margin: 0px auto;
+   width: 75%;
+   background-color: red;
+}
+.header{
+   float: left;
+position: absolute;
+   width: 850px;
+left: 250px;
+top: 50px;
+   
+}
+.colleft{
+   position: absolute;
+   width: 860px;
+   left: 248px;
+top: 300px;
+   background-color: blue;
+font-family: arial, helvetica, sans-serif;
+font-size: 14px;
+}
+
+.col1{
+   position: absolute;
+   overflow: hidden;
+   float: left;
+   width: 600px;
+   left: 0px;
+
+   background-color: white;
+padding: 5px;
+}
+
+.col2{
+   position: absolute;
+   overflow: hidden;
+   float: left;
+   width: 225px;
+   left: 620px;
+   background-color: white;
+border-left: 1px solid black;
+padding: 5px;
+}
+
+h2
+{
+  font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+color: #382866;
+size: 16px;
+}
+
+#navcontainer ul
+{
+padding-left: 0;
+margin-left: 0;
+background-color: #382866;
+color: White;
+float: left;
+width: 855px;
+top: 250px;
+left: 248px;
+position: absolute;
+font-family: arial, helvetica, sans-serif;
+}
+
+#navcontainer ul li { display: inline;
+}
+
+#navcontainer ul li a
+{
+padding:5px;
+background-color: #382866;
+color: White;
+text-decoration: none;
+float: left;
+border-right: 1px solid #fff;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: #429a63;
+color: #fff;
+}
+
+a:link { 
+	color: #429a63;
+	}
+a:visited { 
+	color: #3b4e42;
+	}
+a:hover { 
+	color: #8879b3;
+	text-decoration: none;
+	}
+a:active { 
+	color: #1d1141;
+	}
+
+body {
+   padding: 5px;
+   margin: 0px;
+   font-size: 90%;
+}
+</style>

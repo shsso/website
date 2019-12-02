@@ -1,0 +1,104 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Solon Science Olympiad</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+body {
+	background-image: url(assets/constellation.jpg);
+	background-repeat: repeat;
+}-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+
+<body bgimage 
+onload="MM_preloadImages('assets/homedown.jpg','assets/calendardown.jpg','assets/resultsdown.jpg','assets/photosdown.jpg','assets/resourcesdown.jpg')">
+
+<!-- Header Image and side-by-side links -->
+
+<div align="center">
+
+<a href="home.htm" target="main"><img src="assets/soanchor.jpg" alt="Link to Homepage" border="no" width="120" height="120" /></a><img src="assets/sobanner.jpg" target="self" alt="SO Banner" width="720" height="120" /><a href="http://soinc.org/" target="it"><img src="assets/sologo.jpg" alt="Link to National Science Olympiad Website" border="no" width="120" height="120" /></a>
+</div>
+
+<!-- Header Image and side-by-side links end -->
+
+
+<!-- Navigation -->
+
+<p align="center"> 
+
+<a href="home.htm" target="main" onclick="MM_nbGroup('down','group1','home','assets/homedown.jpg',1)" onmouseover="MM_nbGroup('over','home','assets/homedown.jpg','assets/homedown.jpg',1)" onmouseout="MM_nbGroup('out')">
+<img src="assets/homeup.jpg" alt="Link to Home Page" name="home" width="100" height="20" hspace="5" border="0" id="home" onload="" /></a>
+
+<a href="resources.htm" target="main" onClick="MM_nbGroup('down','group1','resources','assets/resourcesdown.jpg',1)" onMouseOver="MM_nbGroup('over','resources','assets/resourcesdown.jpg','assets/resourcesdown.jpg',1)" onMouseOut="MM_nbGroup('out')">
+<img src="assets/resourcesup.jpg" alt="Link to Resource Page" name="resources" hspace="5" border="0" onload="" /></a>
+
+<a href="photos.htm" target="main" onclick="MM_nbGroup('down','group1','photos','assets/photosdown.jpg',1)" onmouseover="MM_nbGroup('over','photos','assets/photosdown.jpg','assets/photosdown.jpg',1)" onmouseout="MM_nbGroup('out')"><img src="assets/photosup.jpg" alt="Link to Photos Page" name="photos" width="100" height="20" hspace="5" border="0" id="photos" onload="" /></a> 
+
+<a href="calendar.htm" target="main" onclick="MM_nbGroup('down','group1','calendar','assets/calendardown.jpg',1)" onmouseover="MM_nbGroup('over','calendar','assets/calendardown.jpg','assets/calendardown.jpg',1)" onmouseout="MM_nbGroup('out')"><img src="assets/calendarup.jpg" alt="Link to Calendar Page " name="calendar" width="100" height="20" hspace="5" border="0" id="calendar" onload="" /></a> 
+
+<a href="results.htm" target="main" onclick="MM_nbGroup('down','group1','results','assets/resultsdown.jpg',1)" onmouseover="MM_nbGroup('over','results','assets/resultsdown.jpg','assets/resultsdown.jpg',1)" onmouseout="MM_nbGroup('out')"><img src="assets/resultsup.jpg" alt="Link to Results Page " name="results" width="100" height="20" hspace="5" border="0" id="results" onload="" /></a></p>
+
+<!-- Navigation end -->
+
+<body>
+
+</html>

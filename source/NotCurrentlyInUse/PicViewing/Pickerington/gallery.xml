@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0xffffff" frameColor="0xffffff" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="4" thumbnailRows="3" navPosition="left" vAlign="center" hAlign="center" title="Pickerington" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>IMG_1349.jpg</filename>
+	<caption>IMG_1349.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1350.jpg</filename>
+	<caption>IMG_1350.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1361.jpg</filename>
+	<caption>IMG_1361.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1362.jpg</filename>
+	<caption>IMG_1362.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1363.jpg</filename>
+	<caption>IMG_1363.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1364.jpg</filename>
+	<caption>IMG_1364.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1365.jpg</filename>
+	<caption>IMG_1365.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1366.jpg</filename>
+	<caption>IMG_1366.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1367.jpg</filename>
+	<caption>IMG_1367.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1368.jpg</filename>
+	<caption>IMG_1368.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1369.jpg</filename>
+	<caption>IMG_1369.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1370.jpg</filename>
+	<caption>IMG_1370.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1371.jpg</filename>
+	<caption>IMG_1371.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1372.jpg</filename>
+	<caption>IMG_1372.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1373.jpg</filename>
+	<caption>IMG_1373.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1374.jpg</filename>
+	<caption>IMG_1374.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1375.jpg</filename>
+	<caption>IMG_1375.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1376.jpg</filename>
+	<caption>IMG_1376.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1377.jpg</filename>
+	<caption>IMG_1377.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1378.jpg</filename>
+	<caption>IMG_1378.jpg</caption>
+</image>
+<image>
+	<filename>IMG_1379.jpg</filename>
+	<caption>IMG_1379.jpg</caption>
+</image>
+</simpleviewerGallery>

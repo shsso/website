@@ -1,0 +1,187 @@
+body
+{
+    padding-left: 2em;
+
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color:#09093a;
+    background-image: url(images/gradient3.png);
+    background-repeat: repeat-x;
+position: absolute;
+left: 50%;
+margin-left: -500px;
+}
+
+<link rel="shortcut icon" href="/favicon.ico" />
+ 
+h1
+{
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif
+    color:#176a8c;
+}
+
+h2
+{
+  font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif
+color:#21779b;
+size: 10px;
+}
+
+#header{
+height: 200px;
+margin-top: 28px;
+margin-left: 33px;
+}
+
+#superheader{
+background-image: url(images/bannerbackground.png);
+background-repeat: no-repeat;
+margin-top: 100px;
+padding: .5em;
+width: 961px;
+height: 270px;
+
+
+
+}
+
+.texty
+{
+position:relative;
+top:-120px;
+left: -20px;
+}
+
+
+
+
+#container{
+width: 100%;
+margin: 5px auto;
+padding-bottom: 6em;
+
+}
+
+#content{
+
+max-width: 639px;
+margin-top: -40px;
+margin-left: 300px;
+padding: 0px;
+
+}
+
+#nav{
+
+float:left;
+margin-top: 250px;
+margin-left: 35px;
+width: 244px;
+
+}
+
+
+/* Navigation bar */
+ul#list-nav
+{
+    
+padding: 0px;
+}
+
+ul#list-nav li
+{
+    display: inline;
+}
+
+ul#list-nav li a
+{
+    display: block;
+    text-decoration: none;
+    width: 233px;
+    height: 44px;
+    margin-bottom: 10px;
+
+}
+
+ul#list-nav li a.home
+{
+    background: transparent url(images/buttonhome.png) top no-repeat;
+}
+
+ul#list-nav li a.aboutus
+{
+
+    background: transparent url(images/buttonaboutus.png) top no-repeat;
+}
+
+ul#list-nav li a.pictures
+{
+    background: transparent url(images/buttonpictures.png) top no-repeat;
+}
+
+ul#list-nav li a.calendar
+{
+    background: transparent url(images/buttoncalendar.png) top no-repeat;
+}
+
+ul#list-nav li a.results
+{
+    background: transparent url(images/buttonresults.png) top no-repeat;
+}
+
+ul#list-nav li a.download
+{
+    background: transparent url(images/buttondownload.png) top no-repeat;
+}
+
+ul#list-nav li a.soinc
+{
+    background: transparent url(images/buttonsoinc.png) top no-repeat;
+}
+
+ul#list-nav li a.alumni
+{
+    background: transparent url(images/buttonalumni.png) top no-repeat;
+}
+
+ul#list-nav li a.archive
+{
+    background: transparent url(images/buttonarchive.png) top no-repeat;
+}
+
+ul#list-nav li a.sponsors
+{
+    background: transparent url(images/buttonsponsors.png) top no-repeat;
+}
+
+
+
+ul#list-nav li a.nav-image-link:hover
+{ 
+    background-position: left -44px;
+} 
+
+ul#list-nav li a.nav-image-link:active
+{ 
+    background-position: top;
+} 
+ 
+a:link
+{
+  color:blue;
+}
+a:visited:
+{
+  color:#5ba297;
+}
+a:hover
+{
+  color:#b9d9ec;
+}
+
+
+ul#list-nav li a.nav-image-link span
+{ 
+    visibility: hidden;
+} 
+
+ 

@@ -1,0 +1,193 @@
+<html>
+<head>
+<title>Solon Science Olympiad Invitational Award Ceremony</title>
+<!--<script type="text/javascript" src="blowfish.js"></script>-->
+<script type="text/JavaScript" src="jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+
+<style>
+body
+{
+	background-color:#110F0E;
+	/*background-image:url(background.png);*/
+}
+#background
+{
+	width:100%;
+	position:fixed;
+	left:0px;
+	top:0px;
+}
+.hidden
+{
+	display:none;
+}
+#menu
+{
+	position:absolute;
+	left:3px;
+	font-size:8pt;
+	color:#fff;
+	font-family:"Colonna MT", Times, serif;
+}
+#slide
+{
+	position:absolute;
+	top:0px;
+	left:90px;/*15%;*//*210px*/
+	margin-top:0px;
+	margin-bottom:0px;
+	/*background-color:#000033;*/
+	height:100%;
+	width:80%;
+	cursor:none;
+}
+#eventTitle
+{
+	text-align:center;
+	color:#c72205;
+	font-size:40pt;
+	margin-top:5px;
+	margin-bottom:5px;
+	font-family:"Castellar", Times, serif;
+}
+#rankingOutput
+{
+	color:#FFB;
+	font-size:30pt;
+	margin-left:30px;
+	margin-top:5px;
+}
+body, #rankingOutput
+{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	outline-style:none;/*IE*/
+}
+p
+{
+	margin-top:2px;
+	margin-bottom:2px;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+.ready
+{
+	color:#9B7C3A;
+	cursor:pointer;
+}
+.menuEvent:not(.ready)
+{
+	color:#3f3f3f;
+}
+.viewed
+{
+	color:#7e4b0f;
+}
+/*#logo
+{
+	width:15%;
+	position:absolute;
+	right:0px;
+	top:0px;
+}*/
+.rankingNumber, .ranking
+{	
+	font-family:"Imprint MT Shadow", Times, serif;
+}
+.rankingNumber
+{
+	color:#cc5500;
+	font-size: 40pt;
+	margin-bottom:-15px;
+}
+.ranking
+{
+	color:#000000;
+	font-size: 34pt;
+	position:relative;
+	top:-5px;
+    left:-5px;
+    font-weight:bold;
+    margin-bottom:-15px;
+	/*margin-left:80px;
+	margin-top:-100px;
+	margin-bottom:50px;*/
+}
+h2
+{
+	color:#000000;
+}
+.rankingP
+{
+	color:#dd6600;
+}
+#noReally
+{
+	color:#dd6600;
+	font-family:"Imprint MT Shadow", Times, serif;
+	font-size:18pt;
+	text-align:center;
+}
+</style>
+</head>
+<body>
+<img id="background" src="background.jpg"/>
+<div id="menu">
+</div>
+<div id="slide">
+<h2 id="eventTitle"></h2>
+<div id="noReally"></div>
+<div id="rankingOutput">
+</div>
+</div>
+
+
+<div id="teamList" class="hidden">
+?
+?
+?
+?
+?
+?
+?
+?
+?
+</div>
+
+<div id="eventList" class="hidden">
+Air Trajectory
+Anatomy
+Astronomy
+Bridge Building
+Bungee Drop
+Cell Biology
+Chemistry Lab
+Compound Machines
+Disease Detectives
+Dynamic Planet
+Entomology
+Experimental Design
+Forensics
+Fossils
+GeoLogic Mapping
+Green Generation
+It's About Time
+Mission Possible
+Protein Modeling
+Scrambler
+TPS
+Wright Stuff
+Write It Do It
+Pentathlon
+Picture This
+TEAM RESULTS
+</div>
+<!--<img id="logo" src="SOLogo.jpg"/>-->
+
+</body>
+</html>

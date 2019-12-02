@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"> 
+<html> 
+<head> 
+  <title>Solon Science Olympiad</title> 
+  <link rel="stylesheet" href="stylesheet.css"> 
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<!------THESE ARE THE CAROUSEL SETTINGS-------->
+
+  <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script> 
+  <script type="text/javascript" src="jquery.cycle.lite.1.0.min.js"></script> 
+  <script type="text/javascript"> 
+    $(document).ready(function() {
+      $('.slideshow').cycle({
+        timeout: 8000, // how long each image is shown for
+        speed: 1000 // how long the transition takes
+	  });
+    });
+  </script> 
+
+<script type="text/javascript">
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+function ReverseDisplayS() {
+if(document.getElementById("showmore").style.display == "none") { document.getElementById("showmore").style.display = "block"; }
+else { document.getElementById("showmore").style.display = "none"; }
+}
+</script>
+
+<script type="text/javascript">
+window.onload = function test(){
+	var elems = document.getElementsByClassName("aboutus");
+    elems[0].style.backgroundPosition = "left -44px";
+};
+</script>
+<noscript> Your browser does not support JavaScript. </noscript>
+
+</head> 
+ 
+<body>
+<div id="containerwrap">
+<br>
+<!---------- THIS IS THE NAVBAR -------->
+
+<div id="container">
+<div id="nav">
+ <ul id="list-nav"> 
+
+<li><a href="index.html" 
+class="nav-image-link home" 
+onclick="this.blur();"><span>Home
+</span></a></li>
+
+ <li><a href="aboutus.html" 
+class="nav-image-link aboutus" 
+onclick="this.blur();"><span>About Us
+</span></a></li>
+
+<li><ul id="aboutus">
+	<li><a class="aboutusnav" href="aboutus.html">Overview</a></li>
+	<li><a class="aboutusnav" href="officers15-16.html">Officers</a></li>
+	<li><a class="aboutusnav" href="schedule15-16.html">Schedule / Results</a></li>
+</ul></li> 
+
+<li><a href="invitational.html" 
+class="nav-image-link invitational" 
+onclick="this.blur();"><span>Invitational
+</span></a></li>
+
+<li><a href="sponsors.html" 
+class="nav-image-link sponsors" 
+onclick="this.blur();"><span>Sponsors
+</span></a></li>  
+ 
+<li><a href="calendar.html" 
+class="nav-image-link calendar" 
+onclick="this.blur();"><span>Calendar
+</span></a></li> 
+
+<li><a href="alumni.html"
+class="nav-image-link alumni"
+onclick="this.blur();"><span>Alumni
+</span></a></li>
+
+<li><a href="pictures.html"
+class="nav-image-link pictures"
+onclick="this.blur();"><span>Pictures
+</span></a><li>
+
+<li><a href="download.html" 
+class="nav-image-link download" 
+onclick="this.blur();"><span>Download
+</span></a></li> 
+
+<li><a href="http://soinc.org" 
+target="_blank"
+class="nav-image-link soinc" 
+onclick="this.blur();"><span>Soinc
+</span></a></li> 
+ 
+</ul> </div>
+
+<!------------ THESE ARE THE CAROUSEL IMAGES -------------->
+<div id="superheader">
+<div id="header">
+<div class="slideshow">
+		<div><img src="images/backgroundheaderbelieve11.png" alt="" width="900" height="200" /></div>
+		<div><img src="images/backgroundheaderdream11.png" alt="" width="900" height="200" /></div>
+		<div><img src="images/backgroundheaderinspire11.png" alt="" width="900" height="200" /></div> 
+		<div><img src="images/backgroundheaderpassion11.png" alt="" width="900" height="200" /></div> 
+		<div><img src="images/backgroundheadercherish11.png" alt="" width="900" height="200" /></div>
+</div>
+<a href="http://solonscienceolympiad.org"><img class="texty" src="simpletext.png" alt="" width="673" height="101" border="0" /></a></div>
+</div>
+<!------------------------WRITE YOUR UPDATES HERE------------------->
+<div id="content"><br /><br />
+
+<h2>XYZ Invitational</h2>
+
+<table class="results">
+	<tr><th class="resultsHead first" colspan="2">
+		1st - Astronomy
+	</th></tr>
+	<tr><td class="resultsEventPic" colspan="2">
+		<img src="images/Astronomy.jpg"/>
+	</td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/Vishal.jpg"></td>	
+    	<td class="resultsPeople">
+    		Testificate #1
+    </td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/DuelerCrop2.png"></td>	
+    	<td class="resultsPeople">
+    		Testificate #2
+    </td></tr>
+</table>
+
+<table class="results">
+	<tr><th class="resultsHead second" colspan="2">
+		2nd - Astronomy
+	</th></tr>
+	<tr><td class="resultsEventPic" colspan="2">
+		<img src="images/Astronomy.jpg"/>
+	</td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/defaultprofile.gif"></td>	
+    	<td class="resultsPeople">
+    		Testificate #3
+    </td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/defaultprofile.gif"></td>	
+    	<td class="resultsPeople">
+    		Testificate #4
+    </td></tr>
+</table>
+
+<table class="results">
+	<tr><th class="resultsHead third" colspan="2">
+		3rd - Astronomy
+	</th></tr>
+	<tr><td class="resultsEventPic" colspan="2">
+		<img src="images/Astronomy.jpg"/>
+	</td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/defaultprofile.gif"></td>	
+    	<td class="resultsPeople">
+    		Testificate #5
+    </td></tr>
+  	<tr><td class="resultsPeoplePic">
+  		<img src="images/Dancing_Banana.gif"></td>	
+    	<td class="resultsPeople">
+    		Dancing Banana
+    </td></tr>
+</table>
+	<br>
+    <p>NOTE: This page is a test preview of how result pages may look like. Will write program to auto-generate these from an Excel Schedule and the results PDF.</p>
+
+<!-- <p>Below are actual results from Westlake (Team 36 only) last year. Program seems to working well, now just need to get the CSS formating right and all the images/created uploaded</p> -->
+<!-- <table class="results">
+<tr><th class="resultsHead fifth" colspan="2">5th - Forensics</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Forensics"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ali15.gif"></td><td class="resultsPeople">Ali</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead fifth" colspan="2">5th - Geologic</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Geologic"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Timothy15.gif"></td><td class="resultsPeople">Timothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Dylan15.gif"></td><td class="resultsPeople">Dylan</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead sixth" colspan="2">6th - Bungee</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Bungee"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr><tr><td class="resultsPeoplePic"><img src="images/Dylan15.gif"></td><td class="resultsPeople">Dylan</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead sixth" colspan="2">6th - Green Gen</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Green Gen"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amy15.gif"></td><td class="resultsPeople">Amy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead seventh" colspan="2">7th - XPD</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/XPD"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amy15.gif"></td><td class="resultsPeople">Amy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Kathleen15.gif"></td><td class="resultsPeople">Kathleen</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+<p class="showmore"><a href="javascript:ReverseDisplay('showmore')">Dispaly non-placing events</a></p>
+
+<div id="showmore" style="display:none;">
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">11th - Time</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Time"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr><tr><td class="resultsPeoplePic"><img src="images/Timothy15.gif"></td><td class="resultsPeople">Timothy</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">13rd - Disease</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Disease"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Aakash15.gif"></td><td class="resultsPeople">Aakash</td></tr><tr><td class="resultsPeoplePic"><img src="images/Amogh15.gif"></td><td class="resultsPeople">Amogh</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">13rd - Mission</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Mission"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amy15.gif"></td><td class="resultsPeople">Amy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">15th - Chem Lab</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Chem Lab"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Kathleen15.gif"></td><td class="resultsPeople">Kathleen</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">16th - Fossils</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Fossils"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Dylan15.gif"></td><td class="resultsPeople">Dylan</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ethan15.gif"></td><td class="resultsPeople">Ethan</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">18th - Compound</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Compound"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">18th - Scrambler</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Scrambler"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amogh15.gif"></td><td class="resultsPeople">Amogh</td></tr><tr><td class="resultsPeoplePic"><img src="images/Igor15.gif"></td><td class="resultsPeople">Igor</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">18th - Wright</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Wright"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ali15.gif"></td><td class="resultsPeople">Ali</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">19th - Cell Bio</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Cell Bio"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Aakash15.gif"></td><td class="resultsPeople">Aakash</td></tr><tr><td class="resultsPeoplePic"><img src="images/Amy15.gif"></td><td class="resultsPeople">Amy</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">19th - Protien</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Protien"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Timothy15.gif"></td><td class="resultsPeople">Timothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ethan15.gif"></td><td class="resultsPeople">Ethan</td></tr><tr><td class="resultsPeoplePic"><img src="images/Igor15.gif"></td><td class="resultsPeople">Igor</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">21st - Astro</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Astro"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Dylan15.gif"></td><td class="resultsPeople">Dylan</td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">21st - Dynamic</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Dynamic"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Timothy15.gif"></td><td class="resultsPeople">Timothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ethan15.gif"></td><td class="resultsPeople">Ethan</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">22nd - TPS</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/TPS"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amogh15.gif"></td><td class="resultsPeople">Amogh</td></tr><tr><td class="resultsPeoplePic"><img src="images/Kathleen15.gif"></td><td class="resultsPeople">Kathleen</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">23rd - Ento</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Ento"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Amy15.gif"></td><td class="resultsPeople">Amy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">24th - Anatomy</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Anatomy"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Kathleen15.gif"></td><td class="resultsPeople">Kathleen</td></tr><tr><td class="resultsPeoplePic"><img src="images/Ali15.gif"></td><td class="resultsPeople">Ali</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">24th - WIDI</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/WIDI"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Igor15.gif"></td><td class="resultsPeople">Igor</td></tr><tr><td class="resultsPeoplePic"><img src="images/Aakash15.gif"></td><td class="resultsPeople">Aakash</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">26th - Bridges</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Bridges"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Igor15.gif"></td><td class="resultsPeople">Igor</td></tr><tr><td class="resultsPeoplePic"><img src="images/Timothy15.gif"></td><td class="resultsPeople">Timothy</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">43rd - Air Traj</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Air Traj"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Ali15.gif"></td><td class="resultsPeople">Ali</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+</div> -->
+
+<p>Actual results for MIT Solon A from 2015 below, fully auto-generated. Still need to implement merging places from teams (should I even?), since the program can't handle multiple teams currently.</p>
+
+<table class="results">
+<tr><th class="resultsHead first" colspan="2">1st - Bridges</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Bridges"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Max15.gif"></td><td class="resultsPeople">Max</td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachS15.gif"></td><td class="resultsPeople">ZachS</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead first" colspan="2">1st - Chem Lab</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Chem Lab"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Rahul15.gif"></td><td class="resultsPeople">Rahul</td></tr><tr><td class="resultsPeoplePic"><img src="images/Kevin15.gif"></td><td class="resultsPeople">Kevin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead first" colspan="2">1st - XPD</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/XPD"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Rohin15.gif"></td><td class="resultsPeople">Rohin</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachB15.gif"></td><td class="resultsPeople">ZachB</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead first" colspan="2">1st - Forensics</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Forensics"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Dorothy15.gif"></td><td class="resultsPeople">Dorothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead first" colspan="2">1st - TPS</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/TPS"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachB15.gif"></td><td class="resultsPeople">ZachB</td></tr><tr><td class="resultsPeoplePic"><img src="images/KevinT15.gif"></td><td class="resultsPeople">KevinT</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead second" colspan="2">2nd - Scrambler</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Scrambler"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/David15.gif"></td><td class="resultsPeople">David</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead third" colspan="2">3rd - Compound</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Compound"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Kevin15.gif"></td><td class="resultsPeople">Kevin</td></tr><tr><td class="resultsPeoplePic"><img src="images/David15.gif"></td><td class="resultsPeople">David</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead third" colspan="2">3rd - Geologic</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Geologic"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachB15.gif"></td><td class="resultsPeople">ZachB</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lois15.gif"></td><td class="resultsPeople">Lois</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead third" colspan="2">3rd - WIDI</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/WIDI"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Dorothy15.gif"></td><td class="resultsPeople">Dorothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lois15.gif"></td><td class="resultsPeople">Lois</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead fourth" colspan="2">4th - Wright</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Wright"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/David15.gif"></td><td class="resultsPeople">David</td></tr><tr><td class="resultsPeoplePic"><img src="images/Austin15.gif"></td><td class="resultsPeople">Austin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead fifth" colspan="2">5th - Astro</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Astro"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr><tr><td class="resultsPeoplePic"><img src="images/Josh15.gif"></td><td class="resultsPeople">Josh</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead fifth" colspan="2">5th - Disease</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Disease"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Achuth15.gif"></td><td class="resultsPeople">Achuth</td></tr><tr><td class="resultsPeoplePic"><img src="images/Rahul15.gif"></td><td class="resultsPeople">Rahul</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead sixth" colspan="2">6th - Dynamic</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Dynamic"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Josh15.gif"></td><td class="resultsPeople">Josh</td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead eighth" colspan="2">8th - Fossils</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Fossils"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Josh15.gif"></td><td class="resultsPeople">Josh</td></tr><tr><td class="resultsPeoplePic"><img src="images/Rohin15.gif"></td><td class="resultsPeople">Rohin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead eighth" colspan="2">8th - Time</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Time"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr><tr><td class="resultsPeoplePic"><img src="images/David15.gif"></td><td class="resultsPeople">David</td></tr></table>
+
+<p class="showmore"><a href="javascript:ReverseDisplay('showmore')">Dispaly non-placing events</a></p>
+
+<div id="showmore" style="display:none;">
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">9th - Green Gen</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Green Gen"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Max15.gif"></td><td class="resultsPeople">Max</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lois15.gif"></td><td class="resultsPeople">Lois</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">10th - Cell Bio</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Cell Bio"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Rohin15.gif"></td><td class="resultsPeople">Rohin</td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachS15.gif"></td><td class="resultsPeople">ZachS</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">11th - Bungee</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Bungee"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Rahul15.gif"></td><td class="resultsPeople">Rahul</td></tr><tr><td class="resultsPeoplePic"><img src="images/Michael15.gif"></td><td class="resultsPeople">Michael</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">11th - Ento</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Ento"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/ZachS15.gif"></td><td class="resultsPeople">ZachS</td></tr><tr><td class="resultsPeoplePic"><img src="images/Josh15.gif"></td><td class="resultsPeople">Josh</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">12nd - Protien</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Protien"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Rahul15.gif"></td><td class="resultsPeople">Rahul</td></tr><tr><td class="resultsPeoplePic"><img src="images/Lois15.gif"></td><td class="resultsPeople">Lois</td></tr><tr><td class="resultsPeoplePic"><img src="images/Achuth15.gif"></td><td class="resultsPeople">Achuth</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">15th - Anatomy</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Anatomy"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Dorothy15.gif"></td><td class="resultsPeople">Dorothy</td></tr><tr><td class="resultsPeoplePic"><img src="images/Achuth15.gif"></td><td class="resultsPeople">Achuth</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">21st - Air Traj</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Air Traj"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr><tr><td class="resultsPeoplePic"><img src="images/Kevin15.gif"></td><td class="resultsPeople">Kevin</td></tr></table>
+
+<table class="results">
+<tr><th class="resultsHead unplaced" colspan="2">28th - Mission</th></tr><tr><td class="resultsEventPic" colspan="2"><img src="images/Mission"/></td></tr><tr><td class="resultsPeoplePic"><img src="images/Lily15.gif"></td><td class="resultsPeople">Lily</td></tr><tr><td class="resultsPeoplePic"><img src="images/Max15.gif"></td><td class="resultsPeople">Max</td></tr></table>
+
+</div>
+</div>
+<!-------------------------------- DO NOT WRITE ANYTHING BELOW HERE--------------></div>
+</div>
+</body> 
+<footer><br><br></footer>
+</html>

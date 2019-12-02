@@ -1,0 +1,130 @@
+<html>
+<head>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107842441-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107842441-1');
+</script>
+
+<title>Solon Science Olympiad</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <meta name="description" content="Official Website for the Solon Science Olympiad Team">
+    <meta name="keywords" content="Solon,Solon Science Olympiad
+		,Science Olympiad,Science,Olympiad,scioly">
+    <noscript>It looks like your browser does not support Javascript</noscript>
+    <body bgcolor=#000000>
+        <center><meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<!-- ImageReady Preload Script (SO main page.psd) -->
+
+<script type="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		SO_main_page_03_over = newImage("images/SO-main-page_03-over.gif");
+		SO_main_page_05_over = newImage("images/SO-main-page_05-over.gif");
+		SO_main_page_08_over = newImage("images/SO-main-page_08-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+
+</script>
+<!-- End Preload Script -->
+
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+<!-- ImageReady Slices (SO main page.psd) -->
+<table id="Table_01" width="800" height="609" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="7">
+			<img src="images/SO-main-page_01.gif" width="800" height="464" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/SO-main-page_02.gif" width="108" height="144" alt=""></td>
+		<td colspan="2">
+			<a href="DivB"
+				onmouseover="changeImages('SO_main_page_03', 'images/SO-main-page_03-over.gif'); return true;"
+				onmouseout="changeImages('SO_main_page_03', 'images/SO-main-page_03.gif'); return true;"
+				onmousedown="changeImages('SO_main_page_03', 'images/SO-main-page_03-over.gif'); return true;"
+				onmouseup="changeImages('SO_main_page_03', 'images/SO-main-page_03-over.gif'); return true;">
+				<img name="SO_main_page_03" src="images/SO-main-page_03.gif" width="187" height="44" border="0" alt=""></a></td>
+		<td>
+			<img src="images/SO-main-page_04.gif" width="30" height="44" alt=""></td>
+		<td colspan="2">
+			<a href="DivC/index.php"
+				onmouseover="changeImages('SO_main_page_05', 'images/SO-main-page_05-over.gif'); return true;"
+				onmouseout="changeImages('SO_main_page_05', 'images/SO-main-page_05.gif'); return true;"
+				onmousedown="changeImages('SO_main_page_05', 'images/SO-main-page_05-over.gif'); return true;"
+				onmouseup="changeImages('SO_main_page_05', 'images/SO-main-page_05-over.gif'); return true;">
+				<img name="SO_main_page_05" src="images/SO-main-page_05.gif" width="186" height="44" border="0" alt=""></a></td>
+		<td rowspan="3">
+			<img src="images/SO-main-page_06.gif" width="289" height="144" alt=""></td>
+	</tr>
+<!-- Welcome to our website! Here you will find information regarding the our teams (Div B and Div C, the Solon Invitational, and possible sponsorship opportunities. Also -->
+	<tr>
+		<td rowspan="2">
+			<img src="images/SO-main-page_07.gif" width="59" height="100" alt=""></td>
+		<td colspan="3">
+			<a href="DivC/sponsors.php"
+				onmouseover="changeImages('SO_main_page_08', 'images/SO-main-page_08-over.gif'); return true;"
+				onmouseout="changeImages('SO_main_page_08', 'images/SO-main-page_08.gif'); return true;"
+				onmousedown="changeImages('SO_main_page_08', 'images/SO-main-page_08-over.gif'); return true;"
+				onmouseup="changeImages('SO_main_page_08', 'images/SO-main-page_08-over.gif'); return true;">
+				<img name="SO_main_page_08" src="images/SO-main-page_08.gif" width="271" height="53" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="images/SO-main-page_09.gif" width="73" height="100" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/SO-main-page_10.gif" width="271" height="47" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="108" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="59" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="128" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="30" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="113" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="73" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="289" height="1" alt=""></td>
+	</tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+
+<center><a href="http://www.solonschools.org/" border="0" style="text-decoration : none"><font face="Candara, Cambria, Calibri"><font color="grey"><font size=2>&copy; 2009-2017 Solon City Schools</a></font></font>
+<!-- Can someone explain why this is hiding here -->
+<p>steve zhou???</p>
+</html>

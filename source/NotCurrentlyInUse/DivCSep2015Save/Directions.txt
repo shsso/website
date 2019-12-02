@@ -1,0 +1,12 @@
+Directions to the new website manager:
+
+Hello! Welcome to the heap of code that is the Division C website!
+
+General guidelines:
+- If you want to edit the home page, it's "index.html."  Just copy/paste the format of each update.
+- Results are kind of strange. My intent is this: example: for the "Northmont" page let's say, the current "Northmont" page should be the current year's Northmont.  However, that page should link to the past Northmont pages, which is why each invitational is named "nameyear." 
+- For some reason I failed at folders, so if you want to organize things into folders feel free.
+- For pictures, create a Flickr account and upload your photos there.  You should be able to embed a set of photos into a slideshow and paste the html code here.
+
+Good luck!
+Stephanie

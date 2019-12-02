@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0xffffff" frameColor="0xffffff" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="4" thumbnailRows="3" navPosition="left" vAlign="center" hAlign="center" title="Solon" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>102_0980.jpg</filename>
+	<caption>102_0980.jpg</caption>
+</image>
+<image>
+	<filename>102_0985.jpg</filename>
+	<caption>102_0985.jpg</caption>
+</image>
+<image>
+	<filename>102_0987.jpg</filename>
+	<caption>102_0987.jpg</caption>
+</image>
+<image>
+	<filename>102_0989.jpg</filename>
+	<caption>102_0989.jpg</caption>
+</image>
+<image>
+	<filename>102_0990.jpg</filename>
+	<caption>102_0990.jpg</caption>
+</image>
+<image>
+	<filename>102_0991.jpg</filename>
+	<caption>102_0991.jpg</caption>
+</image>
+<image>
+	<filename>102_0992.jpg</filename>
+	<caption>102_0992.jpg</caption>
+</image>
+</simpleviewerGallery>

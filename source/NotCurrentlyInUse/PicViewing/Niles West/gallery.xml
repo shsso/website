@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0xffffff" frameColor="0xffffff" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="4" thumbnailRows="3" navPosition="left" vAlign="center" hAlign="center" title="Niles West" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>102_0612.jpg</filename>
+	<caption>102_0612.jpg</caption>
+</image>
+<image>
+	<filename>102_0617.jpg</filename>
+	<caption>102_0617.jpg</caption>
+</image>
+<image>
+	<filename>102_0621.jpg</filename>
+	<caption>102_0621.jpg</caption>
+</image>
+<image>
+	<filename>102_0623.jpg</filename>
+	<caption>102_0623.jpg</caption>
+</image>
+<image>
+	<filename>102_0635.jpg</filename>
+	<caption>102_0635.jpg</caption>
+</image>
+<image>
+	<filename>102_0640.jpg</filename>
+	<caption>102_0640.jpg</caption>
+</image>
+<image>
+	<filename>102_0646.jpg</filename>
+	<caption>102_0646.jpg</caption>
+</image>
+<image>
+	<filename>102_0648.jpg</filename>
+	<caption>102_0648.jpg</caption>
+</image>
+<image>
+	<filename>102_0660.jpg</filename>
+	<caption>102_0660.jpg</caption>
+</image>
+<image>
+	<filename>102_0666.jpg</filename>
+	<caption>102_0666.jpg</caption>
+</image>
+<image>
+	<filename>102_0671.jpg</filename>
+	<caption>102_0671.jpg</caption>
+</image>
+<image>
+	<filename>102_0672.jpg</filename>
+	<caption>102_0672.jpg</caption>
+</image>
+<image>
+	<filename>102_0678.jpg</filename>
+	<caption>102_0678.jpg</caption>
+</image>
+</simpleviewerGallery>

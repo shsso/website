@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- OPTIONS SUPPORTED BY STANDARD SWF -->
+<simpleviewergallery
+
+	title="SimpleViewer Gallery"
+	textColor="000066"
+	frameColor="FFFFFF"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="4"
+	thumbRows="3"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode=""
+	languageList=""
+>
+	<image imageURL="images/pic1.jpg" thumbURL="thumbs/pic1.jpg" linkURL="" linkTarget="" >
+		<caption>pic1.jpg</caption>
+	</image>
+	<image imageURL="images/pic10.jpg" thumbURL="thumbs/pic10.jpg" linkURL="" linkTarget="" >
+		<caption>pic10.jpg</caption>
+	</image>
+	<image imageURL="images/pic2.jpg" thumbURL="thumbs/pic2.jpg" linkURL="" linkTarget="" >
+		<caption>pic2.jpg</caption>
+	</image>
+	<image imageURL="images/pic3.jpg" thumbURL="thumbs/pic3.jpg" linkURL="" linkTarget="" >
+		<caption>pic3.jpg</caption>
+	</image>
+	<image imageURL="images/pic4.jpg" thumbURL="thumbs/pic4.jpg" linkURL="" linkTarget="" >
+		<caption>pic4.jpg</caption>
+	</image>
+	<image imageURL="images/pic5.jpg" thumbURL="thumbs/pic5.jpg" linkURL="" linkTarget="" >
+		<caption>pic5.jpg</caption>
+	</image>
+	<image imageURL="images/pic6.jpg" thumbURL="thumbs/pic6.jpg" linkURL="" linkTarget="" >
+		<caption>pic6.jpg</caption>
+	</image>
+	<image imageURL="images/pic7.jpg" thumbURL="thumbs/pic7.jpg" linkURL="" linkTarget="" >
+		<caption>pic7.jpg</caption>
+	</image>
+	<image imageURL="images/pic8.jpg" thumbURL="thumbs/pic8.jpg" linkURL="" linkTarget="" >
+		<caption>pic8.jpg</caption>
+	</image>
+	<image imageURL="images/pic9.jpg" thumbURL="thumbs/pic9.jpg" linkURL="" linkTarget="" >
+		<caption>pic9.jpg</caption>
+	</image>
+</simpleviewergallery>

@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"> 
+<html> 
+<head> 
+  <title>Solon Science Olympiad</title> 
+  <link rel="stylesheet" href="stylesheet.css"> 
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<!------THESE ARE THE CAROUSEL SETTINGS-------->
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+  <script type="text/javascript" src="jquery.cycle.lite.1.0.min.js"></script> 
+  <script type="text/javascript"> 
+    $(document).ready(function() {
+      $('.slideshow').cycle({
+        timeout: 8000, // how long each image is shown for
+        speed: 1000 // how long the transition takes
+	  });
+    });
+  </script> 
+
+<script type="text/javascript" language="JavaScript">
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+function ReverseDisplayS() {
+if(document.getElementById("showmore").style.display == "none") { document.getElementById("showmore").style.display = "block"; }
+else { document.getElementById("showmore").style.display = "none"; }
+}
+</script>
+</head> 
+ 
+<body>
+
+<!---------- THIS IS THE NAVBAR -------->
+
+<div id="container">
+<div id="nav">
+ <ul id="list-nav"> 
+
+<li><a href="index.html" 
+class="nav-image-link home" 
+onclick="this.blur();"><span>Home
+</span></a></li> 
+
+ <li><a href="aboutus.html" 
+class="nav-image-link aboutus" 
+onclick="this.blur();"><span>About Us
+</span></a></li> 
+ 
+
+<li><a href="calendar.html" 
+class="nav-image-link calendar" 
+onclick="this.blur();"><span>Calendar
+</span></a></li> 
+
+<li><a href="alumni.html" 
+class="nav-image-link alumni" 
+onclick="this.blur();"><span>Alumni
+</span></a></li>
+
+<li><a href="download.html" 
+class="nav-image-link download" 
+onclick="this.blur();"><span>Download
+</span></a></li> 
+ 
+<li><a href="http://soinc.org" 
+class="nav-image-link soinc" 
+onclick="this.blur();"><span>Soinc
+</span></a></li> 
+ 
+<li><a href="sponsors.html" 
+class="nav-image-link sponsors" 
+onclick="this.blur();"><span>Sponsors
+</span></a></li> 
+ 
+</ul> </div>
+
+<!------------ THESE ARE THE CAROUSEL IMAGES -------------->
+
+<div id="superheader">
+<div id="header">
+<div class="slideshow"><img src="images/backgroundheaderbelieve11.png" alt="" width="900" height="200" /> <img src="images/backgroundheaderdream11.png" alt="" width="900" height="200" /> <img src="images/backgroundheaderinspire11.png" alt="" width="900" height="200" /> <img src="images/backgroundheaderpassion11.png" alt="" width="900" height="200" /> <img src="images/backgroundheadercherish11.png" alt="" width="900" height="200" /></div>
+<a href="http://solonscienceolympiad.org"><img class="texty" src="simpletext.png" alt="" width="673" height="101" border="0" /></a></div>
+</div>
+
+<!------------------------CALENDAR IS HERE------------------->
+
+<div id="content"><br /><br />
+<h1>Calendar</h1>
+
+<iframe src="https://www.google.com/calendar/b/0/embed?showTitle=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ol485hdokjtpbl6g5db0660ns0%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style=" border-width:0 " width="600" height="500" frameborder="0" scrolling="no"></iframe>
+
+</div>
+
+<!-------------------------------- DO NOT WRITE ANYTHING BELOW HERE-------------->
+
+</div>
+</div>
+</body> 
+<footer><br><br></footer>
+</html>
