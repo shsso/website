@@ -1,8 +1,3 @@
-<?php
-include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/top.php");
-include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header.php");
-?>
-
 <!------------------------WRITE YOUR UPDATES HERE------------------->
 
 <div class="twrap">
@@ -52,7 +47,3 @@ include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/header
 <table class="results unplaced" style="display:none"><tr><th class="resultsHead" colspan="2">35th - Designer</th></tr><tr><td class="resultsEventPic" colspan="2"></tr><tr><td class="resultsEventPic" colspan="2"><img src="/DivC/images/eventpics/Designer.gif"></td></tr><tr><td class="resultsPeoplePic"><img src="/DivC/images/profilepics/RuthJ20.gif"></td><td class="resultsPeople">Ruth J.</td></tr><tr><td class="resultsPeoplePic"><img src="/DivC/images/profilepics/KushA20.gif"></td><td class="resultsPeople">Kush A.</td></tr></table>
 </div>
 <p class="showmore1"><a href="javascript:ReverseMultipleDisplays('unplaced', 'inline-table')">- toggle non-placing events -</a></p>
-
-<?php
-include("/home/users/web/b1097/ipg.solonsoadmin/public_html/DivC/template/bottom.php");
-?>
