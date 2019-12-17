@@ -1,0 +1,17 @@
+<h1>All Available Results</h1>
+<hr>
+<p>Listed in reverse alphabetical, not chronological, order. </p>
+<ul style="margin-left: 2%">
+  <% current_page.children.map(&:url).sort.reverse.each do |f| %>
+    <% next unless f.end_with? '.html' %>
+    <li>
+      <a href="<%= f %>">
+        <%= f.split('/')
+             .last.delete_suffix('.html')
+             .gsub('_', ' ')
+             .gsub(/([a-z])([A-Z])/, "\\1 \\2") # add space between CamelCase
+        %>
+      </a>
+    </li>
+  <% end %>
+</ul>
