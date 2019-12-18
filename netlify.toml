@@ -1,0 +1,14 @@
+[build]
+base = "./"
+command = "bundle exec middleman build"
+publish = "./build"
+
+[[redirects]]
+from = "/"
+to = "/divc/"
+status = 302
+
+[[redirects]]
+from = "/divc/invitational/*"
+to = "https://sites.google.com/view/shsso-invitational/:splat"
+status = 200
