@@ -1,0 +1,24 @@
+<h1>News Archives by Season</h1>
+<hr>
+
+<div class="archive">
+
+<% current_page.children.map(&:url).sort.reverse.each do |f| %>
+  <% next unless f.end_with? '.html' %>
+  <h3 style="text-align:center">
+    <a href="<%= f %>">
+      <%= f.split('/').last.delete_suffix('.html') %>
+    </a>
+  </h3>
+  <hr>
+<% end %>
+</div>
+
+<!-- SCROLL SNEAK JS (applies to all links on index page)-->
+<script>
+(function() {
+    var sneaky = new ScrollSneak(location.hostname);
+    $("a").each(function(i){ $(this).click(sneaky.sneak) })
+})();
+
+</script>
