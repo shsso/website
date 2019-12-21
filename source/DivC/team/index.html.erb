@@ -1,0 +1,12 @@
+<h1>Previous Teams</h1>
+<hr>
+
+<% current_page.children.map(&:url).sort.reverse.each do |f| %>
+  <% next unless f.end_with? '.html' %>
+  <h3 style="text-align:center">
+    <a href="<%= f %>">
+      <%= f.split('/').last.delete_suffix('.html') %>
+    </a>
+  </h3>
+  <hr>
+<% end %>
