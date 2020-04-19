@@ -93,7 +93,7 @@ var x = setInterval(function() {
     <div class="dropdown">
        <a class="tab" href="#"><div>Team</div></a>
           <div class="dropdown-content">
-             <a class="tab" href="/DivC/team/2019-2020.php">Our Team</a>
+             <a class="tab" href="/DivC/team/2020-2021">Our Team</a>
              <a class="tab" href="/DivC/results/2019_Nationals.php">Results</a>
              <a class="tab" href="/DivC/pictures/index.php">Pictures</a>
              <a class="tab" href="/DivC/alumni.php">Alumni</a>
